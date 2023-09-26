@@ -1,14 +1,13 @@
 import { definePackage } from "raiku-pgs/plugin"
 
 import favicon from "./favicon.png?inline"
-import { version } from "./package.json"
 
 export const meta = definePackage({
-  id: "plugin",
-  name: "Plugin template",
+  id: "nettruyen",
+  name: "Net Truyen",
   favicon,
-  version,
-  description: "Plugin template description",
+  version: "0.0.2",
+  description: "Plugin nguồn Net Truyen",
   author: "Tachibana Shin <tachibshin@duck.com>",
   updatedAt: Date.now()
 })
