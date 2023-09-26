@@ -46,7 +46,7 @@ jobs:
           run_install: false
 
       - name: Install depends
-        run: sh install.sh
+        run: pnpm i
 
       - uses: Wandalen/wretry.action@master
         name: Test
