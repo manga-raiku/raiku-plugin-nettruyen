@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.0-rc.12
   client-ext-animevsub-helper:
     specifier: ^1.0.4
-    version: 1.0.4
+    version: 1.0.16
   raiku-pgs:
     specifier: ^0.0.3
     version: 0.0.3
@@ -1215,8 +1215,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /client-ext-animevsub-helper@1.0.4:
-    resolution: {integrity: sha512-gv7Ctbg6AcfESlvXpGVIdvw9ApQMZb3o0lpFGbboZcyhJ6YclhYiwxTEvyM4UV+f1zLU1V7VG2Fv6WEgwVCI5A==}
+  /client-ext-animevsub-helper@1.0.16:
+    resolution: {integrity: sha512-cZrHzNYNyOjaNR6Z1J9BWzPjvUf4N3DOmgUGcWEGZ/2CmWkHr6VuozssIfU3NpW4dufAlfOV+/otDlYKuJbRGA==}
     engines: {node: '>=10'}
     dev: false
 
