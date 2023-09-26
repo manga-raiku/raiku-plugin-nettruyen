@@ -26,6 +26,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+    "allowImportingTsExtensions": true,
     "types": ["vitest/globals", "vite/client", "@types/node"]
   }
 }

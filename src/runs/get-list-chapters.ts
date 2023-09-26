@@ -1,7 +1,7 @@
 import type { API, Chapter, ID } from "raiku-pgs/plugin"
 import { normalizeChName, parsePath } from "raiku-pgs/plugin"
 
-import { meta } from "../../package"
+import { meta } from "../../package.ts"
 import { CURL } from "../const"
 import { getParamComicAndChap } from "../parsers/__helpers__/getParamComicAndChap"
 

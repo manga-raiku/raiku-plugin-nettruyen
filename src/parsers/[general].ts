@@ -2,7 +2,7 @@
 import type { FilterQuery, FilterURI } from "raiku-pgs/plugin"
 import { parseAnchor, parsePath } from "raiku-pgs/plugin"
 
-import { meta } from "../../package"
+import { meta } from "../../package.ts"
 
 import { getQuery } from "./__helpers__/getQuery"
 import { getTypeGenre } from "./__helpers__/getTypeGenre"

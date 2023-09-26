@@ -5,7 +5,7 @@ import {
   parsePath
 } from "raiku-pgs/plugin"
 
-import { meta } from "../../package"
+import { meta } from "../../package.ts"
 
 import { getImage } from "./__helpers__/getImage"
 import { getParamComicAndChap } from "./__helpers__/getParamComicAndChap"

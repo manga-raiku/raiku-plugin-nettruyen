@@ -8,7 +8,7 @@ import {
   parseTimeAgo
 } from "raiku-pgs/plugin"
 
-import { meta } from "../../../package"
+import { meta } from "../../../package.ts"
 
 import { getImage } from "./getImage"
 import { getParamComic } from "./getParamComic"
