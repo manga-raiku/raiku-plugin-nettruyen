@@ -17,16 +17,36 @@
     "useDefineForClassFields": true,
     // Fix Volar issue https://github.com/johnsoncodehk/volar/issues/1153
     "jsx": "preserve",
-    "lib": ["esnext", "dom"],
+    "lib": [
+      "esnext",
+      "dom"
+    ],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "preserveSymlinks": true,
     "noEmitOnError": false,
-    "baseUrl": "./",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "allowImportingTsExtensions": true,
-    "types": ["vitest/globals", "vite/client", "@types/node"]
+    "types": [
+      "vitest/globals",
+      "vite/client",
+      "@types/node"
+    ],
+    "paths": {
+      "package": [
+        "./package.ts"
+      ],
+      "plugin": [
+        "./plugin.ts"
+      ],
+      "package.json": [
+        "./package.json"
+      ],
+      "src/*": [
+        "./src/*"
+      ]
+    }
   }
 }

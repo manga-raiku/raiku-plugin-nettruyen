@@ -1,7 +1,10 @@
 {
-  "name": "plugin",
+  "name": "nettruyen",
+  "pluginName": "Net Truyen",
   "version": "0.0.5",
-  "description": "",
+  "description": "Plugin nguồn Net Truyen",
+  "author": "Tachibana Shin <tachibshin@duck.com>",
+  "homepage": "https://github.com/manga-raiku/raiku-plugin-nettruyen",
   "main": "index.js",
   "scripts": {
     "format": "prettier -w ./src",
@@ -15,7 +18,6 @@
     "release": "bumpp"
   },
   "keywords": [],
-  "author": "",
   "license": "LGPL-3.0-or-later",
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
