@@ -1,6 +1,8 @@
 /* eslint-disable camelcase */
+import { meta } from "../../../../package.ts"
 import { parseAnchor, parseTimeAgo } from "raiku-pgs/plugin"
 import type { ComicChapter } from "raiku-pgs/plugin"
+import { getParamComic } from "../../../parsers/__helpers__/getParamComic"
 
 import { parseComment } from "../../__helpers__/parseComment"
 
@@ -11,9 +13,18 @@ export default function epId(html: string, now: number): ComicChapter {
   const image = $("#ctl00_Head1 > meta:nth-child(12)").attr("content")!
 
   const name = $("h1").text().split("-").slice(0, -1).join("-").trim()
-  const { path: path_manga } = parseAnchor(
-    $("#ctl00_divCenter > div > div:nth-child(1) > div.top > h1 > a")
-  )
+  const path_manga = {
+    name: "comic",
+    params: {
+      sourceId: meta.id,
+      comic: getParamComic(
+        parseAnchor(
+          $("#ctl00_divCenter > div > div:nth-child(1) > div.top > h1 > a")
+        ).path
+      )
+    }
+  } as const
+
   const manga_id = parseInt(html.match(/gOpts\.comicId=(\d+)/)?.[1] ?? "") + ""
   const ep_id = parseInt(html.match(/gOpts\.chapterId=(\d+)/)?.[1] ?? "") + ""
   const cdn = html.match(/gOpts\.cdn="([^"]+)"/)?.[1]
