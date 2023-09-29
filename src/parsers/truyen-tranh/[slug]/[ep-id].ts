@@ -1,10 +1,9 @@
 /* eslint-disable camelcase */
-import { meta } from "../../../../package.ts"
+import { meta } from "package"
 import { parseAnchor, parseTimeAgo } from "raiku-pgs/plugin"
 import type { ComicChapter } from "raiku-pgs/plugin"
-import { getParamComic } from "../../../parsers/__helpers__/getParamComic"
-
-import { parseComment } from "../../__helpers__/parseComment"
+import { getParamComic } from "src/parsers/__helpers__/getParamComic"
+import { parseComment } from "src/parsers/__helpers__/parseComment"
 
 export default function epId(html: string, now: number): ComicChapter {
   const $ = parseDom(html)
