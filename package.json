@@ -37,6 +37,7 @@
     "typescript": "^5.0.4",
     "vite": "^4.4.9",
     "vitest": "^0.34.6",
-    "vue-router": "^4.2.4"
+    "vitest": "^0.34.4",
+    "vue-router": "^4.2.5"
   }
 }
