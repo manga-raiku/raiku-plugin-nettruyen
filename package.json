@@ -1,7 +1,7 @@
 {
   "name": "nettruyen",
   "pluginName": "Net Truyen",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Plugin nguồn Net Truyen",
   "author": "Tachibana Shin <tachibshin@duck.com>",
   "homepage": "https://github.com/manga-raiku/raiku-plugin-nettruyen",
@@ -36,7 +36,6 @@
     "tsx": "^3.12.7",
     "typescript": "^5.0.4",
     "vite": "^4.4.9",
-    "vitest": "^0.34.6",
     "vitest": "^0.34.4",
     "vue-router": "^4.2.5"
   }
