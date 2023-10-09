@@ -40,7 +40,7 @@ export default function slug(html: string, now: number): Comic {
     .map((item) => {
       const { name, path } = parseAnchor($(item))
       const route = {
-        name: "genre",
+        name: "author",
         params: {
           sourceId: meta.id,
           type: ""
@@ -130,6 +130,7 @@ export default function slug(html: string, now: number): Comic {
     status,
     genres,
     views,
+    likes: null,
     rate,
     follows,
     description,

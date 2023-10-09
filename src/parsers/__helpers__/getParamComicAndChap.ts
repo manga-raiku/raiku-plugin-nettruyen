@@ -12,6 +12,7 @@ export function getParamComicAndChap(url: string): {
       tt + comic.length + 1,
       url.indexOf("/", url.indexOf("/", tt + comic.length + 1) + 1) >>> 0
     )
+    .replace(/^chap-/i, "")
     .replace(/\//g, "-i")
 
   return { comic, chap }
