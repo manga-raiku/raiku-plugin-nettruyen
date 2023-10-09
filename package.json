@@ -28,7 +28,7 @@
     "@tachibana-shin/eslint-config": "^1.1.1",
     "@types/node": "^20.8.0",
     "bumpp": "^9.2.0",
-    "esbuild": "^0.19.2",
+    "esbuild": "^0.19.4",
     "esbuild-runner": "^2.2.2",
     "eslint": "^8.50.0",
     "happy-dom": "^12.5.0",
