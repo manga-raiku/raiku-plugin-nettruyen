@@ -52,42 +52,50 @@ const Servers: Server[] = [
   {
     name: "Server 1",
     has: () => true,
-    // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-    parse: (item) => withProxyImage(item.src!, headersNettruyen)
+    parse: ({ pages }) =>
+      pages.map((page) => withProxyImage(page.src, headersNettruyen))
   },
   {
     name: "Server 2",
-    has: (item) => item.original !== null && item.original !== item.src,
-    parse(item) {
-      if (item.original?.indexOf("focus-opensocial.googleusercontent") !== -1) {
+    has: ({ pages }) =>
+      pages[0].original !== null && pages[0].original !== pages[0].src,
+    parse({ pages }) {
+      return pages.map((page) => {
+        if (
+          page.original?.indexOf("focus-opensocial.googleusercontent") !== -1
+        ) {
+          return withProxyImage(
+            // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+            decodeURIComponent(page.original!.split("&url", 2)[1]),
+            headersNettruyen
+          )
+        }
+
         return withProxyImage(
-          // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-          decodeURIComponent(item.original!.split("&url", 2)[1]),
+          `https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&resize_h=0&rewriteMime=image%2F*&url=${encodeURIComponent(
+            page.original
+          )}`,
           headersNettruyen
         )
-      }
-
-      return withProxyImage(
-        `https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&resize_h=0&rewriteMime=image%2F*&url=${encodeURIComponent(
-          item.original
-        )}`,
-        headersNettruyen
-      )
+      })
     }
   },
   {
     name: "Server 3",
     has: (item) => item.cdn !== null,
 
-    // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-    parse: (item) => withProxyImage(item.cdn!, headersNettruyen)
+    parse: ({ pages }) =>
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+      pages.map((item) => withProxyImage(item.cdn!, headersNettruyen))
   },
   {
     name: "Server 4",
-    has: (item, { cdn, cdn2 }) => item.cdn !== null && !!cdn && !!cdn2,
-    parse: (item, { cdn, cdn2 }) => {
-      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      return withProxyImage(item.cdn!.replace(cdn!, cdn2!), headersNettruyen)
+    has: ({ pages, cdn, cdn2 }) => pages[0].cdn !== null && !!cdn && !!cdn2,
+    parse: ({ pages, cdn, cdn2 }) => {
+      return pages.map((item) =>
+        // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+        withProxyImage(item.cdn!.replace(cdn!, cdn2!), headersNettruyen)
+      )
     }
   }
 ]
