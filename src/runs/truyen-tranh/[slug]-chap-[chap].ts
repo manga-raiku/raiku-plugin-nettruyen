@@ -29,20 +29,21 @@ export default async function <Fast extends boolean>(
     return {
       ...result,
       chapters: JSON.parse(data).chapters.map(
-        (item: { chapterId: number; name: string; url: string }) => {
-          const route = {
+        (item: { chapterId: number; name: string; url: string }): Chapter => {
+          const route: Chapter["route"] = {
             name: "comic chap",
             params: {
               sourceId: meta.id,
               ...getParamComicAndChap(item.url)
             }
-          } as const
+          }
 
           return {
-            id: item.chapterId,
+            id: item.chapterId + "",
             name: normalizeChName(item.name),
             route,
-            updated_at: null
+            updated_at: null,
+            views: null
           }
         }
       )
