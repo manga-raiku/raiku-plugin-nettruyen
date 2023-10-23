@@ -1,10 +1,9 @@
-import type { API } from "raiku-pgs/plugin"
+
 import { parsePath } from "raiku-pgs/plugin"
 
 import { API_CURL } from "../../const"
 
 export default async function (
-  { get }: Pick<API, "get">,
   comicId: number,
   // eslint-disable-next-line camelcase
   user_uid: string,

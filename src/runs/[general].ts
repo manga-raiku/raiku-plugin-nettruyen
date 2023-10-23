@@ -1,10 +1,8 @@
-import type { API } from "raiku-pgs/plugin"
 
 import { CURL } from "../const"
 import Parse from "../parsers/[general]"
 
 export default async function (
-  { get }: Pick<API, "get">,
   path: string,
   page: number,
   query: Record<string, string | string[]>

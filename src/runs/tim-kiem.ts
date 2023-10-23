@@ -1,13 +1,8 @@
-import type { API } from "raiku-pgs/plugin"
 
 import { CURL } from "../const"
 import Parse from "../parsers/[general]"
 
-export default async function (
-  { get }: Pick<API, "get">,
-  query: string,
-  page: number
-) {
+export default async function (query: string, page: number) {
   const { data } = await get({
     url: `${CURL}/tim-truyen?keyword=${encodeURIComponent(query)}&page=${page}`
   })

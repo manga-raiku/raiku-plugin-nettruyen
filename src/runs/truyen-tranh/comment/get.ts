@@ -1,10 +1,9 @@
 /* eslint-disable camelcase */
-import type { API, Comment } from "raiku-pgs/plugin"
+import type { Comment } from "raiku-pgs/plugin"
 
 import Parse from "../../../parsers/truyen-tranh/comment/get"
 
 export default async function GetComment(
-  { get }: Pick<API, "get">,
   comicId: number,
   orderByNews: boolean,
   chapterId = -1,

@@ -1,9 +1,6 @@
-import type { GetOption } from "client-ext-animevsub-helper"
 import {
   type API,
   defineApi,
-  type FetchGet,
-  type FetchPost,
   type ID,
   type Ranking,
   type Server
@@ -104,23 +101,16 @@ class Nettruyen implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  public readonly get: FetchGet<GetOption["responseType"]>
-  public readonly post: FetchPost<GetOption["responseType"]>
-
-  constructor(
-    get: FetchGet<GetOption["responseType"]>,
-    post: FetchPost<GetOption["responseType"]>
-  ) {
-    this.get = get
-    this.post = post
+  async setup() {
+    return { isSupport: true }
   }
 
   async index() {
-    return Index(this)
+    return Index()
   }
 
   async getComic(zlug: string) {
-    return getComic(this, zlug)
+    return getComic(zlug)
   }
 
   async getComicChapter<Fast extends boolean>(
@@ -131,7 +121,6 @@ class Nettruyen implements API {
     const lastI = epId.lastIndexOf("-i") >>> 0
 
     return getComicChapter(
-      this,
       mangaId + "/" + epId.slice(0, lastI) + "/" + epId.slice(lastI + 2),
       fast
     )
@@ -146,7 +135,6 @@ class Nettruyen implements API {
     comicKey: string
   ) {
     return getComicComment(
-      this,
       comicId,
       orderByNews,
       chapterId,
@@ -157,22 +145,22 @@ class Nettruyen implements API {
   }
 
   async getListChapters(mangaId: ID) {
-    return getListChapters(this, mangaId)
+    return getListChapters(mangaId)
   }
 
   async searchQuickly(keyword: string, page: number) {
-    return searchQuickly(this, keyword, page)
+    return searchQuickly(keyword, page)
   }
 
   async search(keyword: string, page: number) {
-    return search(this, keyword, page)
+    return search(keyword, page)
   }
 
   async getRanking(type: string, page: number, filter: Record<string, string>) {
     const match = Rankings.find((item) => item.value === type)?.match
     if (!match) throw new Error("not_found")
 
-    return General(this, match, page, filter)
+    return General(match, page, filter)
   }
 
   async getCategory(
@@ -180,7 +168,7 @@ class Nettruyen implements API {
     page: number,
     filter: Record<string, string | string[]>
   ) {
-    return General(this, `/tim-truyen/${type}`, page, filter)
+    return General(`/tim-truyen/${type}`, page, filter)
   }
 }
 

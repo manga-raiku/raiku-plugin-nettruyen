@@ -1,11 +1,9 @@
 /* eslint-disable camelcase */
-import type { API } from "raiku-pgs/plugin"
 
 import { API_CURL } from "../const"
 import Parse from "../parsers/[general]"
 
 export default async function (
-  { get }: Pick<API, "get">,
   page: number,
   user_uid: string,
   token: string,

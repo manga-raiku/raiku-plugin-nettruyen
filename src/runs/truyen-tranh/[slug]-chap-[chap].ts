@@ -1,4 +1,4 @@
-import type { API, Chapter, ComicChapter } from "raiku-pgs/plugin"
+import type { Chapter, ComicChapter } from "raiku-pgs/plugin"
 import { normalizeChName, pathIsHome } from "raiku-pgs/plugin"
 
 import { meta } from "../../../package.ts"
@@ -7,7 +7,6 @@ import { getParamComicAndChap } from "../../parsers/__helpers__/getParamComicAnd
 import Parse from "../../parsers/truyen-tranh/[slug]/[ep-id]"
 
 export default async function <Fast extends boolean>(
-  { get }: Pick<API, "get">,
   slug: string,
   fast: Fast
 ): Promise<
