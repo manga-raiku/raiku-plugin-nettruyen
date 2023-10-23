@@ -1,4 +1,3 @@
-
 import { CURL } from "../const"
 import Parse from "../parsers/[general]"
 

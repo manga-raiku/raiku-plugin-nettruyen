@@ -2,11 +2,7 @@
 
 import { API_CURL } from "../../const"
 
-export default async function Follow(
-  { post }: Pick<API, "post">,
-  comicId: number,
-  key: string
-) {
+export default async function Follow(comicId: number, key: string) {
   const { data } = await post({
     url: `${API_CURL}/Comic/Services/ComicService.asmx/GetFollowToken`,
     data:
