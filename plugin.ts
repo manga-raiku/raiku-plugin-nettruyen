@@ -101,9 +101,8 @@ class Nettruyen implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  async setup() {
-    return { isSupport: true }
-  }
+  // eslint-disable-next-line @typescript-eslint/no-empty-function
+  async setup() {}
 
   async index() {
     return Index()
