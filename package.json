@@ -26,6 +26,7 @@
     "@tachibana-shin/eslint-config": "^1.1.1",
     "@types/node": "^20.8.3",
     "bumpp": "^9.2.0",
+    "cheerio": "1.0.0-rc.12",
     "client-ext-animevsub-helper": "^1.0.23",
     "esbuild": "^0.19.4",
     "esbuild-runner": "^2.2.2",
