@@ -5,6 +5,7 @@ import {
   type Ranking,
   type Server
 } from "raiku-pgs/plugin"
+import { CURL } from "src/const"
 
 import { withProxyImage } from "./src/logic/with-proxy-image"
 import General from "./src/runs/[general]"
@@ -101,8 +102,14 @@ class Nettruyen implements API {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
 
-  // eslint-disable-next-line @typescript-eslint/no-empty-function
-  async setup() {}
+  async setup() {
+    if (AppInfo.extension) {
+      console.log("Plugin run mode extension.")
+      await setReferrers({
+        "#nettruyen": CURL
+      })
+    }
+  }
 
   async index() {
     return Index()
