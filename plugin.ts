@@ -127,7 +127,11 @@ class Nettruyen implements API {
     const lastI = epId.lastIndexOf("-i") >>> 0
 
     return getComicChapter(
-      mangaId + "/" + epId.slice(0, lastI) + "/" + epId.slice(lastI + 2),
+      mangaId.replace(/-\d+$/, "") +
+        "/chap-" +
+        epId.slice(0, lastI) +
+        "/" +
+        epId.slice(lastI + 2),
       fast
     )
   }

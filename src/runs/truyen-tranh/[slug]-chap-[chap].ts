@@ -19,7 +19,6 @@ export default async function <Fast extends boolean>(
   const { data, url } = await get({ url: `${CURL}/truyen-tranh/${slug}` })
 
   if (pathIsHome(url)) throw new Error("not_found")
-
   const result = await Parse(data, Date.now())
   if (!fast) {
     const { data } = await get({
