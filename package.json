@@ -1,7 +1,7 @@
 {
   "name": "nettruyen",
   "pluginName": "Net Truyen",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Plugin nguồn Net Truyen",
   "author": "Tachibana Shin <tachibshin@duck.com>",
   "homepage": "https://github.com/manga-raiku/raiku-plugin-nettruyen",
@@ -20,7 +20,7 @@
   "keywords": [],
   "license": "LGPL-3.0-or-later",
   "dependencies": {
-    "raiku-pgs": "0.0.9-beta.40"
+    "raiku-pgs": "0.0.9-beta.41"
   },
   "devDependencies": {
     "@tachibana-shin/eslint-config": "^1.1.1",
