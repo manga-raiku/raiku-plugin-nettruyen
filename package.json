@@ -1,7 +1,7 @@
 {
   "name": "nettruyen",
   "pluginName": "Net Truyen",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "Plugin nguồn Net Truyen",
   "author": "Tachibana Shin <tachibshin@duck.com>",
   "homepage": "https://github.com/manga-raiku/raiku-plugin-nettruyen",
