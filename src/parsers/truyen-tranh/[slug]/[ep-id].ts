@@ -1,6 +1,6 @@
 /* eslint-disable camelcase */
 import { meta } from "package"
-import { parseAnchor, parseTimeAgo } from "raiku-pgs/plugin"
+import { parseAnchor, parseTimeAgo, upgradeToHttps } from "raiku-pgs/plugin"
 import type { ComicChapter } from "raiku-pgs/plugin"
 import { getParamComic } from "src/parsers/__helpers__/getParamComic"
 import { parseComment } from "src/parsers/__helpers__/parseComment"
@@ -42,9 +42,11 @@ export default function epId(html: string, now: number): ComicChapter {
     .map((item) => {
       const $item = $(item)
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-      const src = $item.attr("src")!
-      const original = $item.attr("data-original")
-      const cdn = $item.attr("data-cdn")
+      const src = upgradeToHttps($item.attr("src")!)
+      const $original = $item.attr("data-original")
+      const original = $original ? upgradeToHttps($original) : undefined
+      const $cdn = $item.attr("data-cdn")
+      const cdn = $cdn ? upgradeToHttps($cdn) : undefined
 
       return {
         // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
