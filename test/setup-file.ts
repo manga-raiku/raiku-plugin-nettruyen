@@ -4,6 +4,8 @@ import { parseDom } from "raiku-pgs/thread"
 // eslint-disable-next-line no-redeclare, no-import-assign
 const AppInfo: AppInfo = {
   mode: "spa",
+  native: false,
+  standalone: false,
   extension: false,
   version: "0.0.1"
 }
