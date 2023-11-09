@@ -43,7 +43,7 @@ const Rankings: Ranking[] = [
     }
   }
 ]
-const headersNettruyen = {
+export const headersNettruyen = {
   referer: "https://www.nettruyenmax.com"
 }
 const Servers: Server[] = [
