@@ -20,7 +20,7 @@
   "keywords": [],
   "license": "LGPL-3.0-or-later",
   "dependencies": {
-    "raiku-pgs": "0.0.9-beta.44"
+    "raiku-pgs": "0.1.1"
   },
   "devDependencies": {
     "@tachibana-shin/eslint-config": "^1.1.1",
