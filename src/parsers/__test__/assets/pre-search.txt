@@ -1,7 +1,7 @@
 <ul>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/vua-tren-bien-10">
-<img src="//st.nettruyenmax.com/data/comics/1/vua-tren-bien.jpg" alt="Vua Trên Biển">
+<img src="https://st.nettruyenmax.com/data/comics/1/vua-tren-bien.jpg" alt="Vua Trên Biển">
 <h3>Vua Trên Biển</h3>
 <h4>
 <i>Chapter 258</i>
@@ -11,7 +11,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/than-binh-ngoai-truyen-50">
-<img src="//st.nettruyenmax.com/data/comics/5/than-binh-ngoai-truyen.jpg" alt="Thần Binh Ngoại Truyện">
+<img src="https://st.nettruyenmax.com/data/comics/5/than-binh-ngoai-truyen.jpg" alt="Thần Binh Ngoại Truyện">
 <h3>Thần Binh Ngoại Truyện</h3>
 <h4>
 <i>Chapter 29</i>
@@ -24,7 +24,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/sieu-nhan-cuoc-xeng-70">
-<img src="//st.nettruyenmax.com/data/comics/7/sieu-nhan-cuoc-xeng.png" alt="Siêu Nhân Cuốc Xẻng">
+<img src="https://st.nettruyenmax.com/data/comics/7/sieu-nhan-cuoc-xeng.png" alt="Siêu Nhân Cuốc Xẻng">
 <h3>Siêu Nhân Cuốc Xẻng</h3>
 <h4>
 <i>Chapter 70</i>
@@ -35,7 +35,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/diep-van-tien-truyen-180">
-<img src="//st.nettruyenmax.com/data/comics/18/diep-van-tien-truyen.jpg" alt="Diệp Vấn Tiền Truyện">
+<img src="https://st.nettruyenmax.com/data/comics/18/diep-van-tien-truyen.jpg" alt="Diệp Vấn Tiền Truyện">
 <h3>Diệp Vấn Tiền Truyện</h3>
 <h4>
 <i>Chapter 20</i>
@@ -48,7 +48,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/than-binh-huyen-ky-f-220">
-<img src="//st.nettruyenmax.com/data/comics/22/than-binh-huyen-ky-f.jpg" alt="Thần Binh Huyền Kỳ F">
+<img src="https://st.nettruyenmax.com/data/comics/22/than-binh-huyen-ky-f.jpg" alt="Thần Binh Huyền Kỳ F">
 <h3>Thần Binh Huyền Kỳ F</h3>
 <h4>
 <i>Chapter 38</i>
@@ -59,7 +59,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/thien-tu-truyen-ky-5-nhu-lai-than-chuong-250">
-<img src="//st.nettruyenmax.com/data/comics/25/thien-tu-truyen-ky-5-nhu-lai-than-chuong.jpg" alt="Thiên Tử Truyền Kỳ 5 - Như Lai Thần Chưởng">
+<img src="https://st.nettruyenmax.com/data/comics/25/thien-tu-truyen-ky-5-nhu-lai-than-chuong.jpg" alt="Thiên Tử Truyền Kỳ 5 - Như Lai Thần Chưởng">
 <h3>Thiên Tử Truyền Kỳ 5 - Như Lai Thần Chưởng</h3>
 <h4>
 <i>Chapter 214</i>
@@ -72,7 +72,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/thien-tu-truyen-ky-7-tam-quoc-kieu-hoang-350">
-<img src="//st.nettruyenmax.com/data/comics/35/thien-tu-truyen-ky-7-tam-quoc-kieu-hoang.jpg" alt="Thiên Tử Truyền Kỳ 7 - Tam Quốc Kiêu Hoàng">
+<img src="https://st.nettruyenmax.com/data/comics/35/thien-tu-truyen-ky-7-tam-quoc-kieu-hoang.jpg" alt="Thiên Tử Truyền Kỳ 7 - Tam Quốc Kiêu Hoàng">
 <h3>Thiên Tử Truyền Kỳ 7 - Tam Quốc Kiêu Hoàng</h3>
 <h4>
 <i>Chapter 52</i>
@@ -85,7 +85,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/thieu-lam-de-8-dong-nhan-ngoai-truyen-380">
-<img src="//st.nettruyenmax.com/data/comics/38/thieu-lam-de-8-dong-nhan-ngoai-truyen.jpg" alt="Thiếu Lâm Đệ 8 Đồng Nhân Ngoại Truyện">
+<img src="https://st.nettruyenmax.com/data/comics/38/thieu-lam-de-8-dong-nhan-ngoai-truyen.jpg" alt="Thiếu Lâm Đệ 8 Đồng Nhân Ngoại Truyện">
 <h3>Thiếu Lâm Đệ 8 Đồng Nhân Ngoại Truyện</h3>
 <h4>
 <i>Chapter 16</i>
@@ -98,7 +98,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/trick-ster-490">
-<img src="//st.nettruyenmax.com/data/comics/49/trick-ster.jpg" alt="Trick Ster">
+<img src="https://st.nettruyenmax.com/data/comics/49/trick-ster.jpg" alt="Trick Ster">
 <h3>Trick Ster</h3>
 <h4>
 <i>Chapter 10</i>
@@ -107,7 +107,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/xxxholic-570">
-<img src="//st.nettruyenmax.com/data/comics/57/xxxholic.jpg" alt="XXXHolic">
+<img src="https://st.nettruyenmax.com/data/comics/57/xxxholic.jpg" alt="XXXHolic">
 <h3>XXXHolic</h3>
 <h4>
 <i>Chapter 213</i>
@@ -118,7 +118,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/vat-that-lac-cua-bau-troi-1080">
-<img src="//st.nettruyenmax.com/data/comics/108/vat-that-lac-cua-bau-troi.jpg" alt="Vật Thất Lạc Của Bầu Trời">
+<img src="https://st.nettruyenmax.com/data/comics/108/vat-that-lac-cua-bau-troi.jpg" alt="Vật Thất Lạc Của Bầu Trời">
 <h3>Vật Thất Lạc Của Bầu Trời</h3>
 <h4>
 <i>Chapter 77.2</i>
@@ -129,7 +129,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/transfer-student-storm-bringer-reboot-1092">
-<img src="//st.nettruyenmax.com/data/comics/109/transfer-student-storm-bringer-reboot.jpg" alt="Transfer Student Storm Bringer Reboot">
+<img src="https://st.nettruyenmax.com/data/comics/109/transfer-student-storm-bringer-reboot.jpg" alt="Transfer Student Storm Bringer Reboot">
 <h3>Transfer Student Storm Bringer Reboot</h3>
 <h4>
 <i>Chapter 18</i>
@@ -142,7 +142,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/tinh-yeu-hoc-tro-1190">
-<img src="//st.nettruyenmax.com/data/comics/119/tinh-yeu-hoc-tro.jpg" alt="Tình Yêu Học Trò">
+<img src="https://st.nettruyenmax.com/data/comics/119/tinh-yeu-hoc-tro.jpg" alt="Tình Yêu Học Trò">
 <h3>Tình Yêu Học Trò</h3>
 <h4>
 <i>Chapter 37</i>
@@ -153,7 +153,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/dao-kiem-tan-truyen-1210">
-<img src="//st.nettruyenmax.com/data/comics/121/dao-kiem-tan-truyen.jpg" alt="Đao Kiếm Tân Truyện">
+<img src="https://st.nettruyenmax.com/data/comics/121/dao-kiem-tan-truyen.jpg" alt="Đao Kiếm Tân Truyện">
 <h3>Đao Kiếm Tân Truyện</h3>
 <h4>
 <i>Chapter 1</i>
@@ -166,7 +166,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/trap-1490">
-<img src="//st.nettruyenmax.com/data/comics/149/trap.jpg" alt="T.R.A.P">
+<img src="https://st.nettruyenmax.com/data/comics/149/trap.jpg" alt="T.R.A.P">
 <h3>T.R.A.P</h3>
 <h4>
 <i>Chapter 10</i>
@@ -176,7 +176,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/nu-hiep-truong-cao-trung-1650">
-<img src="//st.nettruyenmax.com/data/comics/165/real-bout-high-school.jpg" alt="Nữ Hiệp Trường Cao Trung">
+<img src="https://st.nettruyenmax.com/data/comics/165/real-bout-high-school.jpg" alt="Nữ Hiệp Trường Cao Trung">
 <h3>Nữ Hiệp Trường Cao Trung</h3>
 <h4>
 <i>Chapter 6</i>
@@ -187,7 +187,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/translucent-1660">
-<img src="//st.nettruyenmax.com/data/comics/166/translucent.jpg" alt="Translucent">
+<img src="https://st.nettruyenmax.com/data/comics/166/translucent.jpg" alt="Translucent">
 <h3>Translucent</h3>
 <h4>
 <i>Chapter 4</i>
@@ -197,7 +197,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/bo-3-dam-mau-1680">
-<img src="//st.nettruyenmax.com/data/comics/168/trinity-blood.jpg" alt="Bộ 3 đẫm máu">
+<img src="https://st.nettruyenmax.com/data/comics/168/trinity-blood.jpg" alt="Bộ 3 đẫm máu">
 <h3>Bộ 3 đẫm máu</h3>
 <h4>
 <i>Chapter 6</i>
@@ -208,7 +208,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/the-childrens-teacher-mr-kwon-1802">
-<img src="//st.nettruyenmax.com/data/comics/180/the-childrens-teacher-mr-kwon.jpg" alt="The Children's Teacher, Mr. Kwon">
+<img src="https://st.nettruyenmax.com/data/comics/180/the-childrens-teacher-mr-kwon.jpg" alt="The Children's Teacher, Mr. Kwon">
 <h3>The Children's Teacher, Mr. Kwon</h3>
 <h4>
 <i>Chapter 55</i>
@@ -219,7 +219,7 @@
 </li>
 <li>
 <a href="https://www.nettruyenmax.com/truyen-tranh/yozakura-quartet-1900">
-<img src="//st.nettruyenmax.com/data/comics/190/yozakura-quartet.jpg" alt="Yozakura Quartet">
+<img src="https://st.nettruyenmax.com/data/comics/190/yozakura-quartet.jpg" alt="Yozakura Quartet">
 <h3>Yozakura Quartet</h3>
 <h4>
 <i>Chapter 165</i>

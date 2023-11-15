@@ -477,7 +477,7 @@
   ],
   "items": [
     {
-      "image": "//st.nettruyenmax.com/data/comics/92/nguoi-trong-giang-ho.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/92/nguoi-trong-giang-ho.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -541,7 +541,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/169/hoa-hong-nien-dai-hac-cot-duong.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/169/hoa-hong-nien-dai-hac-cot-duong.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -605,7 +605,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/17/huyet-ma-nhan.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/17/huyet-ma-nhan.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "huyet-ma-nhan-100010" }
@@ -666,7 +666,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/115/hao-mon-thien-gioi-tien-the-4291.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/115/hao-mon-thien-gioi-tien-the-4291.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -739,7 +739,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/220/naruto-cuu-vi-ho-ly.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/220/naruto-cuu-vi-ho-ly.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -811,7 +811,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/127/su-gia-than-chet.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/127/su-gia-than-chet.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "than-chet-ichigo-44790" }
@@ -879,7 +879,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/185/phong-van.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/185/phong-van.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "phong-van-42810" }
@@ -947,7 +947,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/85/historys-strongest-disciple-kenichi.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/85/historys-strongest-disciple-kenichi.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1011,7 +1011,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/210/hoi-phap-su-noi-tieng.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/210/hoi-phap-su-noi-tieng.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1083,7 +1083,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/218/khuyen-da-xoa-ban-dep.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/218/khuyen-da-xoa-ban-dep.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1154,7 +1154,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/109/ma-ca-rong-quy-toc.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/109/ma-ca-rong-quy-toc.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1218,7 +1218,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/245/dien-thoai-cua-ta-thong-tam-gioi.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/245/dien-thoai-cua-ta-thong-tam-gioi.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1282,7 +1282,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/229/dragon-ball-bay-vien-ngoc-rong.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/229/dragon-ball-bay-vien-ngoc-rong.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1354,7 +1354,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/66/thieu-soai-vo-ngai-lai-bo-tron.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/66/thieu-soai-vo-ngai-lai-bo-tron.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1418,7 +1418,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/206/dao-ma-ca-rong.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/206/dao-ma-ca-rong.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "dao-ma-ca-rong-2510" }
@@ -1479,7 +1479,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/251/anh-hung-ta-khong-lam-lau-roi.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/251/anh-hung-ta-khong-lam-lau-roi.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1550,7 +1550,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/21/the-boy-in-the-all-girls-school-7971.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/21/the-boy-in-the-all-girls-school-7971.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1625,7 +1625,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/216/bitagi-anh-chang-ngo-ngao.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/216/bitagi-anh-chang-ngo-ngao.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1689,7 +1689,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/22/than-hao-chi-thien-hang-he-thong.jpeg",
+      "image": "https://st.nettruyenmax.com/data/comics/22/than-hao-chi-thien-hang-he-thong.jpeg",
       "route": {
         "name": "comic",
         "params": {
@@ -1753,7 +1753,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/51/ranma-12-mot-nua-ranma.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/51/ranma-12-mot-nua-ranma.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "suoi-loi-nguyen-33790" }
@@ -1825,7 +1825,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/219/reborn-nguoi-dao-tao-sat-thu.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/219/reborn-nguoi-dao-tao-sat-thu.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -1896,7 +1896,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/158/toriko.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/158/toriko.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "tho-san-am-thuc-137260" }
@@ -1966,7 +1966,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/56/tough-miyazawa-kiichi.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/56/tough-miyazawa-kiichi.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2030,7 +2030,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/114/duong-dan-tai-di-gioi.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/114/duong-dan-tai-di-gioi.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2094,7 +2094,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/148/gantz.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/148/gantz.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "gantz-78280" }
@@ -2163,7 +2163,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/74/tong-hop-one-shot.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/74/tong-hop-one-shot.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2227,7 +2227,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/223/81-diver.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/223/81-diver.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "81-diver-102070" }
@@ -2288,7 +2288,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/155/ta-luyen-khi-ba-ngan-nam.png",
+      "image": "https://st.nettruyenmax.com/data/comics/155/ta-luyen-khi-ba-ngan-nam.png",
       "route": {
         "name": "comic",
         "params": {
@@ -2359,7 +2359,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/226/me-cung-phap-thuat.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/226/me-cung-phap-thuat.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2423,7 +2423,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/155/minamoto-kun-monogatari.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/155/minamoto-kun-monogatari.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2487,7 +2487,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/248/tong-tai-ba-dao-cau-om-om.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/248/tong-tai-ba-dao-cau-om-om.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2551,7 +2551,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/150/tinh-mong-than-tuong.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/150/tinh-mong-than-tuong.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2622,7 +2622,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/110/dragon-quest-dau-an-rong-thieng.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/110/dragon-quest-dau-an-rong-thieng.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2686,7 +2686,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/64/mahou-sensei-negima.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/64/mahou-sensei-negima.jpg",
       "route": {
         "name": "comic",
         "params": { "sourceId": "nettruyen", "comic": "bac-thay-ma-phap-31360" }
@@ -2756,7 +2756,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/104/co-vo-am-ap-cua-ha-thieu-2308.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/104/co-vo-am-ap-cua-ha-thieu-2308.jpg",
       "route": {
         "name": "comic",
         "params": {
@@ -2820,7 +2820,7 @@
       "label": "Hot"
     },
     {
-      "image": "//st.nettruyenmax.com/data/comics/105/de-thieu-dung-manh-qua.jpg",
+      "image": "https://st.nettruyenmax.com/data/comics/105/de-thieu-dung-manh-qua.jpg",
       "route": {
         "name": "comic",
         "params": {

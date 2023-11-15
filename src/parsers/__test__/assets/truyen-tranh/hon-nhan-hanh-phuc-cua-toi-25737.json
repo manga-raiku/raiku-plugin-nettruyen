@@ -4,7 +4,7 @@
   "manga_id": "25737",
   "updated_at": 1682580180000,
   "likes": null,
-  "image": "//st.nettruyenio.com/data/comics/137/hon-nhan-hanh-phuc-cua-toi-4787.jpg",
+  "image": "https://st.nettruyenio.com/data/comics/137/hon-nhan-hanh-phuc-cua-toi-4787.jpg",
   "author": [
     {
       "name": "Agoki Akumi",
@@ -340,7 +340,7 @@
     {
       "id": 31718882,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/1030199.jpg?v=9103",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/1030199.jpg?v=9103",
         "name": "vinh ho",
         "level": { "current": 4, "perNext": 18 },
         "chapter": "1"
@@ -354,7 +354,7 @@
     {
       "id": 31697857,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/958470.jpg?v=433",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/958470.jpg?v=433",
         "name": "vcb",
         "level": { "current": 4, "perNext": 67 },
         "chapter": ""
@@ -368,7 +368,7 @@
     {
       "id": 31696474,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Mjn",
         "level": { "current": 3, "perNext": 3 },
         "chapter": "17"
@@ -382,7 +382,7 @@
     {
       "id": 31696252,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Mjn",
         "level": { "current": 3, "perNext": 3 },
         "chapter": "16"
@@ -396,7 +396,7 @@
     {
       "id": 31695915,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Mjn",
         "level": { "current": 3, "perNext": 3 },
         "chapter": "15"
@@ -410,7 +410,7 @@
     {
       "id": 31694917,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Mjn",
         "level": { "current": 3, "perNext": 3 },
         "chapter": "9"
@@ -424,12 +424,12 @@
     {
       "id": 31674645,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/540462.jpg?v=8693",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/540462.jpg?v=8693",
         "name": "Shinnosuke Nohara",
         "level": { "current": 4, "perNext": 70 },
         "chapter": "8"
       },
-      "content": "Kaya c&#xf3; l&#x1ed3;n l&#xe0; &#x111;&#x1b0;&#x1ee3;c, anh th&#xed;ch<img class=\"lazy\" src=\"//p.ntcdntempv26.com/content/image.jpg?url=https://4.bp.blogspot.com/-enq6MXH3NVc/WtuC0bJ9rkI/AAAAAAABiEc/Xlmf7wQyE3EAtH70cZFyNJGQpqPWzftngCKgBGAs/h120/30-SoonComputer.gif\" data-original=\"//p.ntcdntempv26.com/content/image.jpg?url=https://4.bp.blogspot.com/-enq6MXH3NVc/WtuC0bJ9rkI/AAAAAAABiEc/Xlmf7wQyE3EAtH70cZFyNJGQpqPWzftngCKgBGAs/h120/30-SoonComputer.gif\" alt=\"emo\">",
+      "content": "Kaya c&#xf3; l&#x1ed3;n l&#xe0; &#x111;&#x1b0;&#x1ee3;c, anh th&#xed;ch<img class=\"lazy\" src=\"https://p.ntcdntempv26.com/content/image.jpg?url=https://4.bp.blogspot.com/-enq6MXH3NVc/WtuC0bJ9rkI/AAAAAAABiEc/Xlmf7wQyE3EAtH70cZFyNJGQpqPWzftngCKgBGAs/h120/30-SoonComputer.gif\" data-original=\"https://p.ntcdntempv26.com/content/image.jpg?url=https://4.bp.blogspot.com/-enq6MXH3NVc/WtuC0bJ9rkI/AAAAAAABiEc/Xlmf7wQyE3EAtH70cZFyNJGQpqPWzftngCKgBGAs/h120/30-SoonComputer.gif\" alt=\"emo\">",
       "like": 0,
       "dislike": 0,
       "created_at": 1690423834674,
@@ -438,7 +438,7 @@
     {
       "id": 31674403,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "coconari will ari",
         "level": { "current": 3, "perNext": 22 },
         "chapter": "19"
@@ -452,7 +452,7 @@
     {
       "id": 31666712,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Aill",
         "level": { "current": 4, "perNext": 24 },
         "chapter": "15"
@@ -466,7 +466,7 @@
     {
       "id": 31666686,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Aill",
         "level": { "current": 4, "perNext": 24 },
         "chapter": "14"
@@ -480,7 +480,7 @@
     {
       "id": 31666642,
       "author": {
-        "avatar": "//st.nettruyenio.com/Data/SiteImages/anonymous.png",
+        "avatar": "https://st.nettruyenio.com/Data/SiteImages/anonymous.png",
         "name": "Aill",
         "level": { "current": 4, "perNext": 24 },
         "chapter": "13"
@@ -494,7 +494,7 @@
     {
       "id": 31664069,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/1357787.jpg?v=6377",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/1357787.jpg?v=6377",
         "name": "Tii Hung",
         "level": { "current": 3, "perNext": 29 },
         "chapter": "20"
@@ -508,7 +508,7 @@
     {
       "id": 31663189,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/1357787.jpg?v=6377",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/1357787.jpg?v=6377",
         "name": "Tii Hung",
         "level": { "current": 3, "perNext": 29 },
         "chapter": "17"
@@ -522,7 +522,7 @@
     {
       "id": 31642549,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/1339268.jpg?v=7382",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/1339268.jpg?v=7382",
         "name": "Tokitou Muichirou",
         "level": { "current": 3, "perNext": 15 },
         "chapter": "6"
@@ -536,7 +536,7 @@
     {
       "id": 31640962,
       "author": {
-        "avatar": "//st.nettruyenio.com/data/sites/1/useravatars/1339268.jpg?v=7382",
+        "avatar": "https://st.nettruyenio.com/data/sites/1/useravatars/1339268.jpg?v=7382",
         "name": "Tokitou Muichirou",
         "level": { "current": 3, "perNext": 14 },
         "chapter": "1"
