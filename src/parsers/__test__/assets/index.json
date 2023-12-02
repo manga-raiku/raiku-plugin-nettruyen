@@ -1995,7 +1995,7 @@
             "name": "comic chap",
             "params": {
               "sourceId": "nettruyen",
-              "comic": "lang-khach-kenshin-phan",
+              "comic": "lang-khach-kenshin-phan-2",
               "chap": "50-i1032828"
             }
           },
@@ -2009,7 +2009,7 @@
             "name": "comic chap",
             "params": {
               "sourceId": "nettruyen",
-              "comic": "lang-khach-kenshin-phan",
+              "comic": "lang-khach-kenshin-phan-2",
               "chap": "49-i1029881"
             }
           },
@@ -2023,7 +2023,7 @@
             "name": "comic chap",
             "params": {
               "sourceId": "nettruyen",
-              "comic": "lang-khach-kenshin-phan",
+              "comic": "lang-khach-kenshin-phan-2",
               "chap": "48-i1029050"
             }
           },
@@ -2761,7 +2761,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/vo-luyen-dinh-phong"
+          "comic": "vo-luyen-dinh-phong"
         }
       },
       "name": "Võ Luyện Đỉnh Phong",
@@ -2784,7 +2784,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/mat-the-pham-nhan"
+          "comic": "mat-the-pham-nhan"
         }
       },
       "name": "Mạt Thế Phàm Nhân",
@@ -2807,7 +2807,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam"
+          "comic": "ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam"
         }
       },
       "name": "Ta Bị Nhốt Tại Cùng Một Ngày Mười Vạn Năm",
@@ -2830,7 +2830,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-co-mot-son-trai"
+          "comic": "ta-co-mot-son-trai"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -2853,7 +2853,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/dai-quan-gia-la-ma-hoang"
+          "comic": "dai-quan-gia-la-ma-hoang"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -2876,7 +2876,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/cao-nang-lai-tap"
+          "comic": "cao-nang-lai-tap"
         }
       },
       "name": "Cao Năng Lai Tập",
@@ -2899,7 +2899,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
+          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
         }
       },
       "name": "Ta ở nhà 100 năm khi ra ngoài đã vô địch",

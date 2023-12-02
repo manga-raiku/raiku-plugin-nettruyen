@@ -2,7 +2,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "vua-tren-bien" }
+      "params": { "sourceId": "nettruyen", "comic": "vua-tren-bien-10" }
     },
     "name": "Vua Trên Biển",
     "image": "https://st.nettruyenmax.com/data/comics/1/vua-tren-bien.jpg",
@@ -15,7 +15,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "than-binh-ngoai-truyen"
+        "comic": "than-binh-ngoai-truyen-50"
       }
     },
     "name": "Thần Binh Ngoại Truyện",
@@ -27,7 +27,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "sieu-nhan-cuoc-xeng" }
+      "params": { "sourceId": "nettruyen", "comic": "sieu-nhan-cuoc-xeng-70" }
     },
     "name": "Siêu Nhân Cuốc Xẻng",
     "image": "https://st.nettruyenmax.com/data/comics/7/sieu-nhan-cuoc-xeng.png",
@@ -38,7 +38,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "diep-van-tien-truyen" }
+      "params": { "sourceId": "nettruyen", "comic": "diep-van-tien-truyen-180" }
     },
     "name": "Diệp Vấn Tiền Truyện",
     "image": "https://st.nettruyenmax.com/data/comics/18/diep-van-tien-truyen.jpg",
@@ -49,7 +49,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "than-binh-huyen-ky-f" }
+      "params": { "sourceId": "nettruyen", "comic": "than-binh-huyen-ky-f-220" }
     },
     "name": "Thần Binh Huyền Kỳ F",
     "image": "https://st.nettruyenmax.com/data/comics/22/than-binh-huyen-ky-f.jpg",
@@ -69,7 +69,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "thien-tu-truyen-ky-5-nhu-lai-than-chuong"
+        "comic": "thien-tu-truyen-ky-5-nhu-lai-than-chuong-250"
       }
     },
     "name": "Thiên Tử Truyền Kỳ 5 - Như Lai Thần Chưởng",
@@ -83,7 +83,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "thien-tu-truyen-ky-7-tam-quoc-kieu-hoang"
+        "comic": "thien-tu-truyen-ky-7-tam-quoc-kieu-hoang-350"
       }
     },
     "name": "Thiên Tử Truyền Kỳ 7 - Tam Quốc Kiêu Hoàng",
@@ -105,7 +105,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "thieu-lam-de-8-dong-nhan-ngoai-truyen"
+        "comic": "thieu-lam-de-8-dong-nhan-ngoai-truyen-380"
       }
     },
     "name": "Thiếu Lâm Đệ 8 Đồng Nhân Ngoại Truyện",
@@ -117,7 +117,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "trick-ster" }
+      "params": { "sourceId": "nettruyen", "comic": "trick-ster-490" }
     },
     "name": "Trick Ster",
     "image": "https://st.nettruyenmax.com/data/comics/49/trick-ster.jpg",
@@ -128,7 +128,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "xxxholic" }
+      "params": { "sourceId": "nettruyen", "comic": "xxxholic-570" }
     },
     "name": "XXXHolic",
     "image": "https://st.nettruyenmax.com/data/comics/57/xxxholic.jpg",
