@@ -10,7 +10,7 @@ export default async function index(): Promise<
     hot: MetaManga[]
     last_update: MetaManga[]
   }>
-  > {
+> {
   const [index, topDay] = await Promise.all([
     get({ url: CURL }).then((res) => Parse(res.data, Date.now())),
     get({ url: `${CURL}/tim-truyen?status=-1&sort=13` }).then((res) =>

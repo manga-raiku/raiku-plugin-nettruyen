@@ -6,7 +6,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "vo-luyen-dinh-phong-176960"
+          "comic": "vo-luyen-dinh-phong"
         }
       },
       "name": "Võ Luyện Đỉnh Phong",
@@ -39,7 +39,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "cuc-pham-bai-gia-tu-419910"
+          "comic": "cuc-pham-bai-gia-tu"
         }
       },
       "name": "Cực Phẩm Bại Gia Tử",
@@ -72,7 +72,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-co-mot-son-trai-370810"
+          "comic": "ta-co-mot-son-trai"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -105,7 +105,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-tuong-vo-hinh-258340"
+          "comic": "dai-tuong-vo-hinh"
         }
       },
       "name": "Đại Tượng Vô Hình",
@@ -138,7 +138,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "mat-the-pham-nhan-211271"
+          "comic": "mat-the-pham-nhan"
         }
       },
       "name": "Mạt Thế Phàm Nhân",
@@ -171,7 +171,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-quan-gia-la-ma-hoang-219482"
+          "comic": "dai-quan-gia-la-ma-hoang"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -204,7 +204,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-thuat-hoi-chien-189860"
+          "comic": "chu-thuat-hoi-chien"
         }
       },
       "name": "Chú Thuật Hồi Chiến",
@@ -237,7 +237,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich-72436"
+          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
         }
       },
       "name": "Ta ở nhà 100 năm khi ra ngoài đã vô địch",
@@ -270,7 +270,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nhan-vat-chinh-manh-nhat-lich-su-420020"
+          "comic": "nhan-vat-chinh-manh-nhat-lich-su"
         }
       },
       "name": "Nhân Vật Chính Mạnh Nhất Lịch Sử",
@@ -303,7 +303,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tro-thanh-than-chu-cthulhu-62252"
+          "comic": "tro-thanh-than-chu-cthulhu"
         }
       },
       "name": "Trở Thành Thần Chủ Cthulhu",
@@ -336,7 +336,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-ra-doi-cua-mot-anh-hung-335212"
+          "comic": "su-ra-doi-cua-mot-anh-hung"
         }
       },
       "name": "Sự ra đời của một anh hùng",
@@ -369,7 +369,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-tro-lai-cua-huyen-thoai-518062"
+          "comic": "su-tro-lai-cua-huyen-thoai"
         }
       },
       "name": "Sự Trở Lại Của Huyền Thoại",
@@ -404,7 +404,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "kiep-nay-toi-se-la-phan-dien-91865"
+          "comic": "kiep-nay-toi-se-la-phan-dien"
         }
       },
       "name": "Kiếp Này Tôi Sẽ Là Phản Diện",
@@ -468,7 +468,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hac-ki-si-thien-tai-gioi-han-thoi-gian-85270"
+          "comic": "hac-ki-si-thien-tai-gioi-han-thoi-gian"
         }
       },
       "name": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
@@ -530,7 +530,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/188/cuong-tham.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "cuong-tham-72892" }
+        "params": { "sourceId": "nettruyen", "comic": "cuong-tham" }
       },
       "name": "Cuồng Thám",
       "othername": "",
@@ -593,7 +593,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "duoc-su-ki-la-benh-nhan-cua-toi-deu-rat-khung-bo-87036"
+          "comic": "duoc-su-ki-la-benh-nhan-cua-toi-deu-rat-khung-bo"
         }
       },
       "name": "Dược sư kì lạ: bệnh nhân của tôi đều rất khủng bố",
@@ -657,7 +657,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-mau-xuyen-khong-toi-lam-phu-nhan-hao-mon-85329"
+          "comic": "chu-mau-xuyen-khong-toi-lam-phu-nhan-hao-mon"
         }
       },
       "name": "Chủ Mẫu Xuyên Không Tới Làm Phu Nhân Hào Môn",
@@ -721,7 +721,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nu-tuong-xuyen-den-hien-dai-tro-thanh-chi-dau-quyen-luc-86406"
+          "comic": "nu-tuong-xuyen-den-hien-dai-tro-thanh-chi-dau-quyen-luc"
         }
       },
       "name": "Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực",
@@ -785,7 +785,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-quan-gia-la-ma-hoang-219482"
+          "comic": "dai-quan-gia-la-ma-hoang"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -849,7 +849,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "sau-khi-trong-sinh-toi-ga-cho-dai-lao-tan-tat-83156"
+          "comic": "sau-khi-trong-sinh-toi-ga-cho-dai-lao-tan-tat"
         }
       },
       "name": "Sau Khi Trọng Sinh, Tôi Gả Cho Đại Lão Tàn Tật",
@@ -913,7 +913,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "toi-mong-giua-ban-ngay-83850"
+          "comic": "toi-mong-giua-ban-ngay"
         }
       },
       "name": "Tôi Mộng Giữa Ban Ngày",
@@ -977,7 +977,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "truong-cong-chua-ac-doc-bat-dau-chim-dam-trong-yeu-duong-79482"
+          "comic": "truong-cong-chua-ac-doc-bat-dau-chim-dam-trong-yeu-duong"
         }
       },
       "name": "Trưởng Công Chúa Ác Độc Bắt Đầu Chìm Đắm Trong Yêu Đương",
@@ -1041,7 +1041,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "vo-chong-dinh-luu-co-chut-ngot-ngao-79143"
+          "comic": "vo-chong-dinh-luu-co-chut-ngot-ngao"
         }
       },
       "name": "Vợ Chồng Đỉnh Lưu Có Chút Ngọt Ngào",
@@ -1105,7 +1105,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "song-tinh-am-duong-su-39900"
+          "comic": "song-tinh-am-duong-su"
         }
       },
       "name": "Song Tinh Âm Dương Sư",
@@ -1179,7 +1179,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hoac-thieu-lai-phai-theo-duoi-vo-yeu-roi-79879"
+          "comic": "hoac-thieu-lai-phai-theo-duoi-vo-yeu-roi"
         }
       },
       "name": "Hoắc Thiếu Lại Phải Theo Đuổi Vợ Yêu Rồi",
@@ -1243,7 +1243,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tong-tai-huyet-toc-cuc-sung-co-vo-my-nhan-ngu-65986"
+          "comic": "tong-tai-huyet-toc-cuc-sung-co-vo-my-nhan-ngu"
         }
       },
       "name": "Tổng Tài Huyết Tộc Cực Sủng Cô Vợ Mỹ Nhân Ngư",
@@ -1307,7 +1307,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-co-mot-son-trai-370810"
+          "comic": "ta-co-mot-son-trai"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -1369,7 +1369,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/178/oshi-no-ko.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "oshi-no-ko-291060" }
+        "params": { "sourceId": "nettruyen", "comic": "oshi-no-ko" }
       },
       "name": "Oshi no Ko",
       "othername": "Đứa Con Của Thần Tượng",
@@ -1439,7 +1439,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "xuyen-nhanh-nhan-vat-phan-dien-qua-nuong-chieu-ta-89024"
+          "comic": "xuyen-nhanh-nhan-vat-phan-dien-qua-nuong-chieu-ta"
         }
       },
       "name": "Xuyên Nhanh : Nhân Vật Phản Diện Quá Nuông Chiều Ta",
@@ -1503,7 +1503,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tro-thanh-than-chu-cthulhu-62252"
+          "comic": "tro-thanh-than-chu-cthulhu"
         }
       },
       "name": "Trở Thành Thần Chủ Cthulhu",
@@ -1575,7 +1575,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "xin-hay-nhan-con-lam-con-di-ma-papa-88192"
+          "comic": "xin-hay-nhan-con-lam-con-di-ma-papa"
         }
       },
       "name": "Xin hãy nhận con làm con đi mà, Papa",
@@ -1639,7 +1639,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "manh-the-that-that-91928"
+          "comic": "manh-the-that-that"
         }
       },
       "name": "Manh Thê Thất Thất",
@@ -1703,7 +1703,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "toi-thuan-hoa-cho-dien-cua-chong-cu-77186"
+          "comic": "toi-thuan-hoa-cho-dien-cua-chong-cu"
         }
       },
       "name": "Tôi Thuần Hóa Chó Điên Của Chồng Cũ",
@@ -1776,7 +1776,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nhan-vat-chinh-manh-nhat-lich-su-420020"
+          "comic": "nhan-vat-chinh-manh-nhat-lich-su"
         }
       },
       "name": "Nhân Vật Chính Mạnh Nhất Lịch Sử",
@@ -1845,7 +1845,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/192/aekanaru.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "aekanaru-69312" }
+        "params": { "sourceId": "nettruyen", "comic": "aekanaru" }
       },
       "name": "Aekanaru",
       "othername": "",
@@ -1915,7 +1915,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-thuat-hoi-chien-189860"
+          "comic": "chu-thuat-hoi-chien"
         }
       },
       "name": "Chú Thuật Hồi Chiến",
@@ -1979,7 +1979,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "lang-khach-kenshin-phan-2-172140"
+          "comic": "lang-khach-kenshin-phan-2"
         }
       },
       "name": "Lãng khách Kenshin phần 2",
@@ -2041,7 +2041,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/176/vu-xuyen-vat-ngu.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "vu-xuyen-vat-ngu-89520" }
+        "params": { "sourceId": "nettruyen", "comic": "vu-xuyen-vat-ngu" }
       },
       "name": "Vũ Xuyên Vật Ngữ",
       "othername": "",
@@ -2104,7 +2104,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-ra-doi-cua-mot-anh-hung-335212"
+          "comic": "su-ra-doi-cua-mot-anh-hung"
         }
       },
       "name": "Sự ra đời của một anh hùng",
@@ -2175,7 +2175,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "kieu-quy-phi-thu-doan-ac-doc-va-hoang-thuong-khong-de-choc-86206"
+          "comic": "kieu-quy-phi-thu-doan-ac-doc-va-hoang-thuong-khong-de-choc"
         }
       },
       "name": "Kiều Quý Phi Thủ Đoạn Ác Độc Và Hoàng Thượng Không Dễ Chọc",
@@ -2239,7 +2239,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "long-lay-phut-lia-doi-88035"
+          "comic": "long-lay-phut-lia-doi"
         }
       },
       "name": "Lộng Lẫy Phút Lìa Đời",
@@ -2301,7 +2301,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/121/lili-men.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "lili-men-81529" }
+        "params": { "sourceId": "nettruyen", "comic": "lili-men" }
       },
       "name": "Lili-men",
       "othername": "Lilimen",
@@ -2369,7 +2369,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/118/couple-breaker.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "couple-breaker-79734" }
+        "params": { "sourceId": "nettruyen", "comic": "couple-breaker" }
       },
       "name": "Couple Breaker",
       "othername": "",
@@ -2432,7 +2432,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "quy-hoan-luc-ma-dao-91919"
+          "comic": "quy-hoan-luc-ma-dao"
         }
       },
       "name": "Quy Hoàn Lục Ma Đạo",
@@ -2496,7 +2496,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "high-card-9-no-mercy-90609"
+          "comic": "high-card-9-no-mercy"
         }
       },
       "name": "High Card - ♦9 No Mercy",
@@ -2560,7 +2560,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "amagi-brilliant-park-136530"
+          "comic": "amagi-brilliant-park"
         }
       },
       "name": "Amagi Brilliant Park",
@@ -2624,7 +2624,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "the-little-girl-raised-by-death-hold-the-sword-of-death-tight-251450"
+          "comic": "the-little-girl-raised-by-death-hold-the-sword-of-death-tight"
         }
       },
       "name": "The Little Girl Raised By Death Hold The Sword Of Death Tight",
@@ -2686,7 +2686,7 @@
       "image": "https://st.nettruyenmax.com/data/comics/149/tham-tu-fuuto.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "tham-tu-fuuto-211410" }
+        "params": { "sourceId": "nettruyen", "comic": "tham-tu-fuuto" }
       },
       "name": "Thám Tử Fuuto",
       "othername": "Fuuto Tantei",
@@ -2761,7 +2761,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/vo-luyen-dinh-phong-176960"
+          "comic": "vo-luyen-dinh-phong"
         }
       },
       "name": "Võ Luyện Đỉnh Phong",
@@ -2784,7 +2784,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/mat-the-pham-nhan-211271"
+          "comic": "mat-the-pham-nhan"
         }
       },
       "name": "Mạt Thế Phàm Nhân",
@@ -2807,7 +2807,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam-375240"
+          "comic": "ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam"
         }
       },
       "name": "Ta Bị Nhốt Tại Cùng Một Ngày Mười Vạn Năm",
@@ -2830,7 +2830,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-co-mot-son-trai-370810"
+          "comic": "ta-co-mot-son-trai"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -2853,7 +2853,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/dai-quan-gia-la-ma-hoang-219482"
+          "comic": "dai-quan-gia-la-ma-hoang"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -2876,7 +2876,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/cao-nang-lai-tap-323620"
+          "comic": "cao-nang-lai-tap"
         }
       },
       "name": "Cao Năng Lai Tập",
@@ -2899,7 +2899,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "/truyen-tranh/ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich-72436"
+          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
         }
       },
       "name": "Ta ở nhà 100 năm khi ra ngoài đã vô địch",

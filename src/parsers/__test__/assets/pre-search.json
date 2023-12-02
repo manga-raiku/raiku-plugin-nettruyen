@@ -141,7 +141,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "vat-that-lac-cua-bau-troi-1080"
+        "comic": "vat-that-lac-cua-bau-troi"
       }
     },
     "name": "Vật Thất Lạc Của Bầu Trời",
@@ -155,7 +155,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "transfer-student-storm-bringer-reboot-1092"
+        "comic": "transfer-student-storm-bringer-reboot"
       }
     },
     "name": "Transfer Student Storm Bringer Reboot",
@@ -167,7 +167,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "tinh-yeu-hoc-tro-1190" }
+      "params": { "sourceId": "nettruyen", "comic": "tinh-yeu-hoc-tro" }
     },
     "name": "Tình Yêu Học Trò",
     "image": "https://st.nettruyenmax.com/data/comics/119/tinh-yeu-hoc-tro.jpg",
@@ -178,7 +178,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "dao-kiem-tan-truyen-1210" }
+      "params": { "sourceId": "nettruyen", "comic": "dao-kiem-tan-truyen" }
     },
     "name": "Đao Kiếm Tân Truyện",
     "image": "https://st.nettruyenmax.com/data/comics/121/dao-kiem-tan-truyen.jpg",
@@ -189,7 +189,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "trap-1490" }
+      "params": { "sourceId": "nettruyen", "comic": "trap" }
     },
     "name": "T.R.A.P",
     "image": "https://st.nettruyenmax.com/data/comics/149/trap.jpg",
@@ -202,7 +202,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "nu-hiep-truong-cao-trung-1650"
+        "comic": "nu-hiep-truong-cao-trung"
       }
     },
     "name": "Nữ Hiệp Trường Cao Trung",
@@ -221,7 +221,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "translucent-1660" }
+      "params": { "sourceId": "nettruyen", "comic": "translucent" }
     },
     "name": "Translucent",
     "image": "https://st.nettruyenmax.com/data/comics/166/translucent.jpg",
@@ -238,7 +238,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "bo-3-dam-mau-1680" }
+      "params": { "sourceId": "nettruyen", "comic": "bo-3-dam-mau" }
     },
     "name": "Bộ 3 đẫm máu",
     "image": "https://st.nettruyenmax.com/data/comics/168/trinity-blood.jpg",
@@ -261,7 +261,7 @@
       "name": "comic",
       "params": {
         "sourceId": "nettruyen",
-        "comic": "the-childrens-teacher-mr-kwon-1802"
+        "comic": "the-childrens-teacher-mr-kwon"
       }
     },
     "name": "The Children's Teacher, Mr. Kwon",
@@ -280,7 +280,7 @@
   {
     "route": {
       "name": "comic",
-      "params": { "sourceId": "nettruyen", "comic": "yozakura-quartet-1900" }
+      "params": { "sourceId": "nettruyen", "comic": "yozakura-quartet" }
     },
     "name": "Yozakura Quartet",
     "image": "https://st.nettruyenmax.com/data/comics/190/yozakura-quartet.jpg",
