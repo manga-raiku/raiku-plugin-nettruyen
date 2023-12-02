@@ -28,7 +28,7 @@ export default async function (
       ? parseInt(
           // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
           parsePath(pathEpCont).split("/").slice(-2).filter(Boolean).at(-1)!
-      )
+        )
       : undefined
   }
 }

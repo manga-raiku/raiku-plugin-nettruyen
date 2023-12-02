@@ -6,7 +6,7 @@ export function getParamComicAndChap(url: string): {
 } {
   const tt = url.indexOf("/truyen-tranh/") + 14
 
-  const comic = url.slice(tt, url.indexOf("/", tt))
+  const comic = url.slice(tt, url.indexOf("/", tt)).replace(/-\d+$/, "")
   const chap = url
     .slice(
       tt + comic.length + 1,

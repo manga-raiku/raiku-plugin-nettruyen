@@ -4,5 +4,6 @@ export function getParamComic(url: string): string {
     .slice(tt, url.indexOf("?", tt) >>> 0)
     .replace(/\/$/, "")
     .replace(/\/$/, "_")
+    .replace(/-\d+$/, "")
   return genre
 }
