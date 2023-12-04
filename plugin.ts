@@ -3,7 +3,8 @@ import {
   defineApi,
   type ID,
   type Ranking,
-  type Server
+  type Server,
+  Comic
 } from "raiku-pgs/plugin"
 import { CURL } from "src/const"
 
@@ -98,9 +99,12 @@ const Servers: Server[] = [
   }
 ]
 
-class Nettruyen implements API {
+const TAGS_IS_MANGA = ['manga', 'anime', 'japan']
+class Nettruyen implements API<true> {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
+
+  public readonly autoFetchComicIsManga = true
 
   async setup() {
     if (AppInfo.extension) {
@@ -119,6 +123,16 @@ class Nettruyen implements API {
     return getComic(zlug)
   }
 
+  async getModeReader(_: string, __: string, comicData: Comic) {
+    if (comicData.genres.some(item => TAGS_IS_MANGA.includes(item.name.toLowerCase())))
+      return {
+        scrollingMode: false,
+        rightToLeft: true
+      }
+
+    return {}
+  }
+
   async getComicChapter<Fast extends boolean>(
     mangaId: ID,
     epId: ID,
@@ -128,10 +142,10 @@ class Nettruyen implements API {
 
     return getComicChapter(
       mangaId.replace(/-\d+$/, "") +
-        "/chap-" +
-        epId.slice(0, lastI) +
-        "/" +
-        epId.slice(lastI + 2),
+      "/chap-" +
+      epId.slice(0, lastI) +
+      "/" +
+      epId.slice(lastI + 2),
       fast
     )
   }
