@@ -1,10 +1,10 @@
-import {
-  type API,
-  defineApi,
-  type ID,
-  type Ranking,
-  type Server,
-  Comic
+import { defineApi } from "raiku-pgs/plugin"
+import type {
+  API,
+  Comic,
+  ID,
+  Ranking,
+  Server
 } from "raiku-pgs/plugin"
 import { CURL } from "src/const"
 
@@ -99,7 +99,7 @@ const Servers: Server[] = [
   }
 ]
 
-const TAGS_IS_MANGA = ['manga', 'anime', 'japan']
+const TAGS_IS_MANGA = ["manga", "anime", "japan"]
 class Nettruyen implements API<true> {
   public readonly Rankings = Rankings
   public readonly Servers = Servers
@@ -124,11 +124,12 @@ class Nettruyen implements API<true> {
   }
 
   async getModeReader(_: string, __: string, comicData: Comic) {
-    if (comicData.genres.some(item => TAGS_IS_MANGA.includes(item.name.toLowerCase())))
+    if (comicData.genres.some(item => TAGS_IS_MANGA.includes(item.name.toLowerCase()))) {
       return {
         scrollingMode: false,
         rightToLeft: true
       }
+    }
 
     return {}
   }

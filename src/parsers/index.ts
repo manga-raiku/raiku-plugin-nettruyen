@@ -7,9 +7,9 @@ import {
 } from "raiku-pgs/plugin"
 
 import { getImage } from "./__helpers__/getImage"
+import { getParamComic } from "./__helpers__/getParamComic"
 import { getParamComicAndChap } from "./__helpers__/getParamComicAndChap"
 import { parseItem } from "./__helpers__/parseItem"
-import { getParamComic } from "./__helpers__/getParamComic"
 
 export default function index(html: string, now: number) {
   const $ = parseDom(html)
@@ -33,7 +33,7 @@ export default function index(html: string, now: number) {
         params: {
           sourceId: meta.id,
           // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
-          comic:getParamComic( parsePath($item.find("a").attr("href")!))
+          comic: getParamComic(parsePath($item.find("a").attr("href")!))
         }
       }
       const name = $item.find("h3").text().trim()

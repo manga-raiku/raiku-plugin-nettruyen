@@ -25,7 +25,7 @@ export default async function GetComment(
 
   return {
     comments_count: parseInt(comments_count),
-    comments_pages: parseInt(pager.slice(pager.indexOf('a href="#') >>> 0, 2)),
+    comments_pages: parseInt(pager.slice(pager.indexOf("a href=\"#") >>> 0, 2)),
     comments: await Parse(response, Date.now())
   }
 }
