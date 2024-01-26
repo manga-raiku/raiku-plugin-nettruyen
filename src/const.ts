@@ -1,2 +1,2 @@
-export const CURL = "https://www.nettruyenclub.com/"
-export const API_CURL = "https://f.nettruyenclub.com/"
+export const CURL = "https://www.nettruyenus.net/"
+export const API_CURL = "https://f.nettruyenus.net/"
