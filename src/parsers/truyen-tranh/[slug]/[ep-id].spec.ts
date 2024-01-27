@@ -8,7 +8,7 @@ import epId from "./[ep-id]"
 describe("[ep-id]", () => {
   test("works", () => {
     const result = epId(html, 1690510234674)
-    
+
     expect(result).toEqual(json)
   })
 })

@@ -8,7 +8,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": ""
+            },
             "query": {}
           },
           "name": "Tất cả thể loại"
@@ -16,7 +19,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "action-95" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "action-95"
+            },
             "query": {}
           },
           "name": "Action"
@@ -24,7 +30,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "truong-thanh" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "truong-thanh"
+            },
             "query": {}
           },
           "name": "Adult"
@@ -32,7 +41,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "adventure" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "adventure"
+            },
             "query": {}
           },
           "name": "Adventure"
@@ -40,7 +52,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "anime" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "anime"
+            },
             "query": {}
           },
           "name": "Anime"
@@ -48,7 +63,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "chuyen-sinh-2131" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "chuyen-sinh-2131"
+            },
             "query": {}
           },
           "name": "Chuyển Sinh"
@@ -56,7 +74,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "comedy-99" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "comedy-99"
+            },
             "query": {}
           },
           "name": "Comedy"
@@ -64,7 +85,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "comic" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "comic"
+            },
             "query": {}
           },
           "name": "Comic"
@@ -72,7 +96,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "cooking" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "cooking"
+            },
             "query": {}
           },
           "name": "Cooking"
@@ -80,7 +107,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "co-dai-207" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "co-dai-207"
+            },
             "query": {}
           },
           "name": "Cổ Đại"
@@ -88,7 +118,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "doujinshi" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "doujinshi"
+            },
             "query": {}
           },
           "name": "Doujinshi"
@@ -96,7 +129,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "drama-103" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "drama-103"
+            },
             "query": {}
           },
           "name": "Drama"
@@ -104,7 +140,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "dam-my" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "dam-my"
+            },
             "query": {}
           },
           "name": "Đam Mỹ"
@@ -112,7 +151,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "ecchi" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "ecchi"
+            },
             "query": {}
           },
           "name": "Ecchi"
@@ -120,7 +162,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "fantasy-1050" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "fantasy-1050"
+            },
             "query": {}
           },
           "name": "Fantasy"
@@ -128,7 +173,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "gender-bender-106" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "gender-bender-106"
+            },
             "query": {}
           },
           "name": "Gender Bender"
@@ -136,7 +184,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "harem-107" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "harem-107"
+            },
             "query": {}
           },
           "name": "Harem"
@@ -144,7 +195,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "historical" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "historical"
+            },
             "query": {}
           },
           "name": "Historical"
@@ -152,7 +206,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "horror" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "horror"
+            },
             "query": {}
           },
           "name": "Horror"
@@ -160,7 +217,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "josei" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "josei"
+            },
             "query": {}
           },
           "name": "Josei"
@@ -168,7 +228,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "live-action" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "live-action"
+            },
             "query": {}
           },
           "name": "Live action"
@@ -176,7 +239,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "manga-112" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "manga-112"
+            },
             "query": {}
           },
           "name": "Manga"
@@ -184,7 +250,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "manhua" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "manhua"
+            },
             "query": {}
           },
           "name": "Manhua"
@@ -192,7 +261,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "manhwa-11400" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "manhwa-11400"
+            },
             "query": {}
           },
           "name": "Manhwa"
@@ -200,7 +272,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "martial-arts" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "martial-arts"
+            },
             "query": {}
           },
           "name": "Martial Arts"
@@ -208,7 +283,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "mature" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "mature"
+            },
             "query": {}
           },
           "name": "Mature"
@@ -216,7 +294,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "mecha-117" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "mecha-117"
+            },
             "query": {}
           },
           "name": "Mecha"
@@ -224,7 +305,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "mystery" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "mystery"
+            },
             "query": {}
           },
           "name": "Mystery"
@@ -232,7 +316,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "ngon-tinh" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "ngon-tinh"
+            },
             "query": {}
           },
           "name": "Ngôn Tình"
@@ -240,7 +327,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "one-shot" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "one-shot"
+            },
             "query": {}
           },
           "name": "One shot"
@@ -248,7 +338,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "psychological" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "psychological"
+            },
             "query": {}
           },
           "name": "Psychological"
@@ -256,7 +349,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "romance-121" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "romance-121"
+            },
             "query": {}
           },
           "name": "Romance"
@@ -264,7 +360,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "school-life" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "school-life"
+            },
             "query": {}
           },
           "name": "School Life"
@@ -272,7 +371,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "sci-fi" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "sci-fi"
+            },
             "query": {}
           },
           "name": "Sci-fi"
@@ -280,7 +382,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "seinen" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "seinen"
+            },
             "query": {}
           },
           "name": "Seinen"
@@ -288,7 +393,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "shoujo" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "shoujo"
+            },
             "query": {}
           },
           "name": "Shoujo"
@@ -296,7 +404,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "shoujo-ai-126" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "shoujo-ai-126"
+            },
             "query": {}
           },
           "name": "Shoujo Ai"
@@ -304,7 +415,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "shounen-127" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "shounen-127"
+            },
             "query": {}
           },
           "name": "Shounen"
@@ -312,7 +426,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "shounen-ai" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "shounen-ai"
+            },
             "query": {}
           },
           "name": "Shounen Ai"
@@ -320,7 +437,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "slice-of-life" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "slice-of-life"
+            },
             "query": {}
           },
           "name": "Slice of Life"
@@ -328,7 +448,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "smut" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "smut"
+            },
             "query": {}
           },
           "name": "Smut"
@@ -336,7 +459,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "soft-yaoi" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "soft-yaoi"
+            },
             "query": {}
           },
           "name": "Soft Yaoi"
@@ -344,7 +470,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "soft-yuri" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "soft-yuri"
+            },
             "query": {}
           },
           "name": "Soft Yuri"
@@ -352,7 +481,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "sports" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "sports"
+            },
             "query": {}
           },
           "name": "Sports"
@@ -360,7 +492,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "supernatural" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "supernatural"
+            },
             "query": {}
           },
           "name": "Supernatural"
@@ -379,7 +514,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "thieu-nhi" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "thieu-nhi"
+            },
             "query": {}
           },
           "name": "Thiếu Nhi"
@@ -387,7 +525,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "tragedy-136" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "tragedy-136"
+            },
             "query": {}
           },
           "name": "Tragedy"
@@ -395,7 +536,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "trinh-tham" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "trinh-tham"
+            },
             "query": {}
           },
           "name": "Trinh Thám"
@@ -403,7 +547,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "truyen-scan" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "truyen-scan"
+            },
             "query": {}
           },
           "name": "Truyện scan"
@@ -411,7 +558,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "truyen-mau-214" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "truyen-mau-214"
+            },
             "query": {}
           },
           "name": "Truyện Màu"
@@ -419,7 +569,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "viet-nam" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "viet-nam"
+            },
             "query": {}
           },
           "name": "Việt Nam"
@@ -427,7 +580,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "webtoon" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "webtoon"
+            },
             "query": {}
           },
           "name": "Webtoon"
@@ -435,7 +591,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "xuyen-khong-205" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "xuyen-khong-205"
+            },
             "query": {}
           },
           "name": "Xuyên Không"
@@ -443,7 +602,10 @@
         {
           "route": {
             "name": "genre",
-            "params": { "sourceId": "nettruyen", "type": "16" },
+            "params": {
+              "sourceId": "nettruyen",
+              "type": "16"
+            },
             "query": {}
           },
           "name": "16+"
@@ -454,24 +616,60 @@
       "type": "Trạng thái",
       "key": "status",
       "items": [
-        { "name": "Tất cả", "value": "-1" },
-        { "name": "Hoàn thành", "value": "2" },
-        { "name": "Đang tiến hành", "value": "1" }
+        {
+          "name": "Tất cả",
+          "value": "-1"
+        },
+        {
+          "name": "Hoàn thành",
+          "value": "2"
+        },
+        {
+          "name": "Đang tiến hành",
+          "value": "1"
+        }
       ]
     },
     {
       "type": "Sắp xếp",
       "key": "sort",
       "items": [
-        { "name": "Ngày cập nhật", "value": null },
-        { "name": "Truyện mới", "value": "15" },
-        { "name": "Top all", "value": "10" },
-        { "name": "Top tháng", "value": "11" },
-        { "name": "Top tuần", "value": "12" },
-        { "name": "Top ngày", "value": "13" },
-        { "name": "Theo dõi", "value": "20" },
-        { "name": "Bình luận", "value": "25" },
-        { "name": "Số chapter", "value": "30" }
+        {
+          "name": "Ngày cập nhật",
+          "value": null
+        },
+        {
+          "name": "Truyện mới",
+          "value": "15"
+        },
+        {
+          "name": "Top all",
+          "value": "10"
+        },
+        {
+          "name": "Top tháng",
+          "value": "11"
+        },
+        {
+          "name": "Top tuần",
+          "value": "12"
+        },
+        {
+          "name": "Top ngày",
+          "value": "13"
+        },
+        {
+          "name": "Theo dõi",
+          "value": "20"
+        },
+        {
+          "name": "Bình luận",
+          "value": "25"
+        },
+        {
+          "name": "Số chapter",
+          "value": "30"
+        }
       ]
     }
   ],
@@ -482,12 +680,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nguoi-trong-giang-ho"
+          "comic": "nguoi-trong-giang-ho-41880"
         }
       },
       "name": "Người Trong Giang Hồ",
       "othername": "Teddy Boy",
-      "tags": ["Action", "Manhua", "Martial Arts", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Manhua",
+        "Martial Arts",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "Ngưu Lão",
       "description": "Người Trong Giang Hồ là bộ truyện tranh nổi tiếng Cổ Hoặc Tử - Teddy Boy! Truyện đạt kỷ lục bộ truyện tranh dài nhất thế giới! Thế giới truyện rộng lớn, tình tiết ly kỳ, cao trào, nhiều nét đột phá, truyện tả thật thế giới xã hội đen Hongkong, mặt xấu ác lòng người, hiệp nghĩa can trường, huynh đệ tình thân... Truyện thích hợp cho người từ 18 tuổi trở lên, bạn đọc cân nhắc kỹ trước khi xem!\nTóm tắt:\n+ Từ chapter 858: Bắt đầu giải đấu K1\n+ Từ chapter 1280 - 1639: Cam Thượng Võ – Từ Thế Phi\n+ Từ chapter 1640 - 1731: Huyết chiến Mã Huệ Lan\n+ Từ chapter 1732 - 1793: Hành trình cuối Địa Trung Hải\n+ Từ chapter 1794: Hồng Hưng Độc Xà\n...",
@@ -546,12 +749,19 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hoa-hong-nien-dai-hac-cot-duong"
+          "comic": "hoa-hong-nien-dai-hac-cot-duong-170650"
         }
       },
       "name": "Hỏa Hồng Niên Đại Hắc Cốt Đường",
       "othername": "",
-      "tags": ["Adult", "Ecchi", "Horror", "Manhua", "Mature", "Truyện Màu"],
+      "tags": [
+        "Adult",
+        "Ecchi",
+        "Horror",
+        "Manhua",
+        "Mature",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "Khưu Thụy Tân",
       "description": "Một tác phẩm lớn về Giang hồ của Khưu Thụy Tân, theo phong cách hắc ám. Một giang hồ thật sự được khắc họa đầy bạo lực, tanh máu, trần trụi.",
@@ -608,11 +818,20 @@
       "image": "https://st.nettruyenmax.com/data/comics/17/huyet-ma-nhan.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "huyet-ma-nhan" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "huyet-ma-nhan-100010"
+        }
       },
       "name": "Huyết Ma Nhân",
       "othername": "Giới Ma Nhân",
-      "tags": ["Action", "Adventure", "Manhua", "Supernatural", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Manhua",
+        "Supernatural",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Sinh viên đại học năm nhất Chu tiểu an tình cờ có được một chiếc nhẫn không rõ lai lịch, trong miệng hắn bất ngờ chui ra một cái huyết ma nhân, một bí mật kinh thiên về nhân loại lập tức được vạch trần...",
@@ -671,7 +890,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hao-mon-thien-gioi-tien-the"
+          "comic": "hao-mon-thien-gioi-tien-the-147070"
         }
       },
       "name": "Hào Môn Thiên Giới Tiền Thê",
@@ -744,7 +963,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "naruto-cuu-vi-ho-ly"
+          "comic": "naruto-cuu-vi-ho-ly-119964"
         }
       },
       "name": "Naruto - Cửu Vĩ Hồ Ly",
@@ -814,7 +1033,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/127/su-gia-than-chet.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "than-chet-ichigo" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "than-chet-ichigo-44790"
+        }
       },
       "name": "Thần Chết Ichigo",
       "othername": "Ichigo sứ giả thần chết; Bleach",
@@ -882,7 +1104,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/185/phong-van.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "phong-van" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "phong-van-42810"
+        }
       },
       "name": "Phong Vân",
       "othername": "",
@@ -952,12 +1177,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "historys-strongest-disciple-kenichi"
+          "comic": "historys-strongest-disciple-kenichi-16210"
         }
       },
       "name": "History's Strongest Disciple Kenichi",
       "othername": "Kenichi",
-      "tags": ["Action", "Adventure", "Comedy", "Manga", "Martial Arts"],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Manga",
+        "Martial Arts"
+      ],
       "status": "Hoàn thành",
       "author": "Matsuena Syun",
       "description": "Shirahama Kenichi là một nam sinh tầm thường được bạn bè gán cho biệt danh \"con gà \" vì lúc nào cậu cũng bị bắt nạt. Một ngày nọ cậu gặp một cô nữ sinh tuyệt đẹp học cũng trường tên Jumiko và đồng ý giúp cậu học sinh học karate tại chính võ đường nhà mình. Tại đó Kenichi dc thọ giáo nhìu bậc thầy về đủ các loại võ như Quyền Thái, Taekwondo, Võ Trung Hoa, Judo... và bao nhiu phiền tóa cũng từ đó mà sinh ra... Càng ngày, Kenichi càng trưởng thành và càng mạnh mẽ...",
@@ -1016,7 +1247,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hoi-phap-su-noi-tieng"
+          "comic": "hoi-phap-su-noi-tieng-91701"
         }
       },
       "name": "Hội Pháp Sư Nổi Tiếng",
@@ -1088,7 +1319,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "khuyen-da-xoa-ban-dep"
+          "comic": "khuyen-da-xoa-ban-dep-91780"
         }
       },
       "name": "Khuyển Dạ Xoa Bản đẹp",
@@ -1159,12 +1390,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ma-ca-rong-quy-toc"
+          "comic": "ma-ca-rong-quy-toc-42053"
         }
       },
       "name": "Ma Cà Rồng Quý Tộc",
       "othername": "",
-      "tags": ["Action", "Adventure", "Manhwa"],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Manhwa"
+      ],
       "status": "Hoàn thành",
       "author": "Son Je Ho - Lee Gwang Su",
       "description": "Sau 820 năm chìm trong giấc ngủ dài, Cadis Etrama Di Raizel (hay Rai) đã thức tỉnh. Rai là một Vampire và vì đã ngủ quá lâu nên chẳng biết gì về thế giới bên ngoài. Sau khi thức tỉnh anh ta đã hòa mình vào cùng những học sinh khác, có nhiều bạn bè. Nhưng có một tổ chức luôn nghiên cứu và thí nghiệm trên cơ thể người mong muốn có được anh làm mẫu vật. Vì vậy mà Rai và các bạn đều bị đặt trong một tình huống vô cùng nguy hiểm...\nNhóm dịch: Red Sky Group 1 10 + [S.We] Group 10 2xx, Shiny 244-",
@@ -1223,12 +1458,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dien-thoai-cua-ta-thong-tam-gioi"
+          "comic": "dien-thoai-cua-ta-thong-tam-gioi-194450"
         }
       },
       "name": "Điện thoại của ta thông tam giới",
       "othername": "Wechat Của Tôi Liên Kết Tam Giới",
-      "tags": ["Comedy", "Fantasy", "Manhua", "Mystery", "Truyện Màu"],
+      "tags": [
+        "Comedy",
+        "Fantasy",
+        "Manhua",
+        "Mystery",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Sinh viên đại học phổ thông- Lâm Hải, sau khi cập nhật Wechat, bị lôi kéo vào nhóm giao dịch của Thiên Đình, Cuộc sống từ nay trở về sau trở nên nhiều màu sắc, quả bàn đào đổi lấy mặt nạ đắp mặt, Kim Đan đổi thuốc lá, thứ lỗi cho không ký sổ!",
@@ -1287,7 +1528,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dragon-ball-bay-vien-ngoc-rong"
+          "comic": "dragon-ball-bay-vien-ngoc-rong-35571"
         }
       },
       "name": "Dragon Ball - Bảy Viên Ngọc Rồng",
@@ -1359,12 +1600,19 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "thieu-soai-vo-ngai-lai-bo-tron"
+          "comic": "thieu-soai-vo-ngai-lai-bo-tron-174741"
         }
       },
       "name": "Thiếu Soái ! Vợ Ngài Lại Bỏ Trốn",
       "othername": "",
-      "tags": ["Comedy", "Manhua", "Romance", "Shoujo", "Smut", "Truyện Màu"],
+      "tags": [
+        "Comedy",
+        "Manhua",
+        "Romance",
+        "Shoujo",
+        "Smut",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Thiếu soái nói: “Phu nhân nhà ta chỉ là một cô nương thôn quê, không hiểu chuyện thành phố, các ngươi tốt nhất đừng khi dễ nàng!” Những quý phụ danh gia bị thiếu soái phu nhân tranh hết hào quang nổi bật khóc không ra nước mắt: Rốt cuộc ai khi dễ ai? Thiếu soái lại nói: “Phu nhân nhà ta hiền dịu ôn nhu lịch sự, những thứ trung y, quân sự gì nàng đều không hiểu!” Những người có bệnh được thiếu soái phu nhân chữa khỏi, đối thủ bị thiếu soái phu nhân bắn chết: Thiếu soái ngài bị mù sao? “Phu nhân nhà ta tiểu ý nhu tình, xem trượng phu là trời, ta nói một nàng chưa bao giờ dám nói hai!” Thiếu soái quỳ gối giặt đồ, vẻ mặt hào khí ngất trời nói. Chúng sĩ quan Đốc quân phủ: Mặt mũi là thứ không thể thiếu, thiếu soái làm ơn chừa cho tụi em một chút!",
@@ -1421,11 +1669,18 @@
       "image": "https://st.nettruyenmax.com/data/comics/206/dao-ma-ca-rong.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "dao-ma-ca-rong" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "dao-ma-ca-rong-2510"
+        }
       },
       "name": "Đảo ma cà rồng",
       "othername": "",
-      "tags": ["Fantasy", "Horror", "Seinen"],
+      "tags": [
+        "Fantasy",
+        "Horror",
+        "Seinen"
+      ],
       "status": "Hoàn thành",
       "author": "Matsumoto Koji",
       "description": "Một nhóm người đã cùng nhau đến một hòn đảo, nơi cách biệt với thế giới hiện đại và cũng là nơi đã bị ma cà rồng chiếm giữ\nMục đích chuyến đi là để tìm kiếm người anh trai đã mất tích khi tới hòn đào này sau khi thực sự chứng kiến và vất vả để giết được một con ma cà rồng thực sự\nNhưng khi tới hòn đào thì mọi chuyện ko đơn giản như họ nghĩ, cái chết đơn giản hơn sự sống, nếu có địa ngục đây chính là địa ngục thứ 2. Liệu họ có vượt qua được địa ngục này  hay không?\nTruyện thuộc thể loại kinh dị, chiến đấu, mang nhiều ý tưởng sáng tạo và nhân văn, vô cùng lôi cuốn và hấp dẫn....\nPhần 3",
@@ -1484,7 +1739,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "anh-hung-ta-khong-lam-lau-roi"
+          "comic": "anh-hung-ta-khong-lam-lau-roi-197070"
         }
       },
       "name": "Anh Hùng ? Ta Không Làm Lâu Rồi",
@@ -1555,7 +1810,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "the-boy-in-the-all-girls-school"
+          "comic": "the-boy-in-the-all-girls-school-207570"
         }
       },
       "name": "The Boy in the all-girls school",
@@ -1630,12 +1885,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "bitagi-anh-chang-ngo-ngao"
+          "comic": "bitagi-anh-chang-ngo-ngao-81520"
         }
       },
       "name": "Bitagi - Anh Chàng Ngổ Ngáo",
       "othername": "",
-      "tags": ["Action", "Comedy", "School Life", "Shounen"],
+      "tags": [
+        "Action",
+        "Comedy",
+        "School Life",
+        "Shounen"
+      ],
       "status": "Hoàn thành",
       "author": "Choe Byeong Yeol",
       "description": "Trở về sau một\nthời gian dài mất tích, Kang Hy – thủ lĩnh nhóm Angel Five, người nổi\ndanh với huyền thoại “1 chấp 100” – trở thành một con người hoàn toàn\nkhác.Một Kang Hy vốn không sợ trời, không sợ đất nay chỉ còn là tên mất trí và nhát không nước nào mà nói.Cậu ta không muốn dính gì tới quá khứ “vẻ vang” của mình nữa mà chỉ muốn làm một cậu học sinh bình thường.Nhưng quá khứ không buông tha cậu, và bạn bè cậu bị lôi vào những vụ thách đấu liên tiếp.Trước tình hình đó, Kang Hy phải trở về với con người thật của mình để cứu bạn.Và huyền thoại của cậu lại được tiếp tục...",
@@ -1694,12 +1954,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "than-hao-chi-thien-hang-he-thong"
+          "comic": "than-hao-chi-thien-hang-he-thong-266460"
         }
       },
       "name": "Thần Hào Chi Thiên Hàng Hệ Thống",
       "othername": "Thần Hào Hệ Thống Tuyệt Thế",
-      "tags": ["Action", "Fantasy", "Manhua", "Martial Arts", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Manhua",
+        "Martial Arts",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "",
@@ -1756,7 +2022,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/51/ranma-12-mot-nua-ranma.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "suoi-loi-nguyen" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "suoi-loi-nguyen-33790"
+        }
       },
       "name": "Suối lời nguyền",
       "othername": "Ranma 1/2 - Một Nửa Ranma",
@@ -1830,7 +2099,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "reborn-nguoi-dao-tao-sat-thu"
+          "comic": "reborn-nguoi-dao-tao-sat-thu-73870"
         }
       },
       "name": "Reborn: Người đào tạo sát thủ",
@@ -1899,7 +2168,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/158/toriko.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "tho-san-am-thuc" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "tho-san-am-thuc-137260"
+        }
       },
       "name": "Thợ Săn Ẩm Thực",
       "othername": "Toriko",
@@ -1971,12 +2243,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tough-miyazawa-kiichi"
+          "comic": "tough-miyazawa-kiichi-90160"
         }
       },
       "name": "Tough - Miyazawa Kiichi",
       "othername": "",
-      "tags": ["Manga", "Martial Arts", "Sports", "Tragedy"],
+      "tags": [
+        "Manga",
+        "Martial Arts",
+        "Sports",
+        "Tragedy"
+      ],
       "status": "Hoàn thành",
       "author": "Saruwatari Tetsuya",
       "description": "Là một bộ truyện tranh võ thuật vô cùng hấp dẫn với sự hội tụ của đầy đủ các yêu tố như hành động, võ thuật, bạo lực, xã hội đen… Truyện cuốn hút người xem nhờ nội dung khá người lớn, các màn đấu võ đẹp mắt cùng với sự tranh đấu của các thế lực xã hội đen trong thế giới ngầm.\nThoạt đầu, truyện nói về Kiichi cố gắng cứu cha mình khi ông gần như bị giết bởi anh trai của ông – Kiryu. Nhưng sau đó truyện ít đề cập chuyện này vì cha cậu đã hồi phục và một vài giải đấu phong cách bắt đầu. Lúc ấy hiển nhiên là Kiichi sẽ đối mặt với những đối thủ giỏi hơn mình trên con đường chinh phục đỉnh cao võ thuật.",
@@ -2035,12 +2312,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "duong-dan-tai-di-gioi"
+          "comic": "duong-dan-tai-di-gioi-126581"
         }
       },
       "name": "Đường Dần tại Dị Giới",
       "othername": "",
-      "tags": ["Adventure", "Harem", "Manhua", "Truyện Màu"],
+      "tags": [
+        "Adventure",
+        "Harem",
+        "Manhua",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Thể loại huyền huyễn dị giới theo nguyên tác của Lục Đạo. Hắn có một thân công phu siêu quần bạt tụy, trong thế giới hiện thực không đất dụng võ, chỉ còn cách làm sát thủ. Tình cờ đến được Dị giới vào thời thế hỗn loạn, trên chiến trường phát huy thực lực. Tên hắn là Đường Dần, chuyện của hắn như chỉ tồn tại trong truyền thuyết...",
@@ -2097,7 +2379,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/148/gantz.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "gantz" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "gantz-78280"
+        }
       },
       "name": "Gantz",
       "othername": "",
@@ -2168,12 +2453,14 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tong-hop-one-shot"
+          "comic": "tong-hop-one-shot-77540"
         }
       },
       "name": "Tổng hợp One Shot.",
       "othername": "",
-      "tags": ["One shot"],
+      "tags": [
+        "One shot"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Tổng hợp các truyện One shot",
@@ -2230,11 +2517,21 @@
       "image": "https://st.nettruyenmax.com/data/comics/223/81-diver.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "81-diver" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "81-diver-102070"
+        }
       },
       "name": "81 Diver",
       "othername": "",
-      "tags": ["Comedy", "Drama", "Manga", "Romance", "Seinen", "Sports"],
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Manga",
+        "Romance",
+        "Seinen",
+        "Sports"
+      ],
       "status": "Hoàn thành",
       "author": "Shibata Yokusaru",
       "description": "Cờ vây, cờ tướng, cờ vua,V/v.... Là các loại cờ trí tuệ, chơi hai người. Đó là các loại trò chơi phổ biến trên thế giới, nhưng vẫn có một loại cờ khác- cờ shogi.Bạn, nếu bạn là một người chơi cờ, ở đây là cờ shogi. Thì, bạn sẽ có một quyết định thế nào? Trở thành một tay cờ chuyên nghiệp, hay biết chơi cờ, chơi giỏi, để rồi chơi theo kiểu cá cược để kiếm tiền?Bộ truyện này, là bộ truyện nói về cờ shogi. Trong cái thế giới mà người chơi cờ shogi này chia làm hai loại. Một là sẽ trở thành một tay cờ chuyên nghiệp. Một là, chơi giỏi, để rồi theo con đường cá cược kiếm tiền.Nhân vật chính của bộ này, là một cu cậu chơi cờ shogi giỏi, nhưng lại theo con đường cờ bạc kiếm tiền, với mơ ước sẽ thành một tay Pro shogi trong tương lai. Với một niềm kiêu hãnh rằng từ khi chơi cá cược cờ, chưa bao giờ thua, cu cậu coi mình là vô địch trong thế giới cờ này. Rồi câu chuyện xảy ra, cu cậu nghe nói về một người, người đó cũng là một tay chơi shogi theo lối cá cược, vậy là theo chỉ dẫn, cu cậu tìm đến coi thử, thách đấu với tay cờ đó. Cứ ngỡ là mình mạnh, chả có ai bì được, cu cậu lao vô cuộc đấu cờ. Nhưng rồi, chuốc lấy thua thê thảm. Mất tinh thần, vì lần đầu thua, cu cậu đành rút lui về nhà.Trước cái tình huống mất tinh thần vì thua cuộc thê thảm ấy, cu cậu sẽ có dự tính gì? ngay cả cái tựa truyện nữa, 81 Diver là gì? muốn biết không? cứ theo dõi câu chuyện nhé",
@@ -2293,7 +2590,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-luyen-khi-ba-ngan-nam"
+          "comic": "ta-luyen-khi-ba-ngan-nam-260110"
         }
       },
       "name": "Ta Luyện Khí Ba Ngàn Năm",
@@ -2364,12 +2661,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "me-cung-phap-thuat"
+          "comic": "me-cung-phap-thuat-45780"
         }
       },
       "name": "Mê Cung Phap Thuật",
       "othername": "",
-      "tags": ["Adventure", "Fantasy", "Shounen"],
+      "tags": [
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
       "status": "Hoàn thành",
       "author": "Ohtaka Shinobu",
       "description": "Nhân vật chính trong truyện là cậu bé tên là Aladin, người có cây sáo kỳ diệu vì ở bên trong nó có một vị thần. Khi vị thần được triệu hồi thì không có đầu, có một cơ thể với cơ bắp khủng , nhưng lại rất... nhát gái, khi bị cô gái nào đụng thì vị thần ấy lập tức xỉu vì xấu hổ....",
@@ -2428,12 +2729,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "minamoto-kun-monogatari"
+          "comic": "minamoto-kun-monogatari-91150"
         }
       },
       "name": "Minamoto-kun Monogatari",
       "othername": "Minamoto-kun Monogatari - Chuyện Chàng Minamoto",
-      "tags": ["Comedy", "Ecchi", "Harem", "Romance", "Seinen"],
+      "tags": [
+        "Comedy",
+        "Ecchi",
+        "Harem",
+        "Romance",
+        "Seinen"
+      ],
       "status": "Hoàn thành",
       "author": "Inaba Minori",
       "description": "Một anh chàng sau khi bị con gái sờ soạng sàm sỡ đã mắc phải chứng bệnh sợ sữa và con gái. Sau khi lên đại học cậu quyết sẽ chữa khỏi căn bệnh này và làm tình với mọi cô gái mình gặp. Vì một sự kiện bất ngờ mà cậu bị chuyển đến sống chung với cô họ mình. Cô này thì bảo là sẽ chữa căn bệnh sợ gái của cậu bằng cách... thực hiện một vài thử nghiệm... và cậu sẽ phải abc với 14 cô gái (một phần trong thí nghiệm đó đấy). Một câu truyện thú vị hãy đọc đi thì biết.",
@@ -2492,12 +2799,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tong-tai-ba-dao-cau-om-om"
+          "comic": "tong-tai-ba-dao-cau-om-om-222641"
         }
       },
       "name": "Tổng Tài Bá Đạo Cầu Ôm Ôm",
       "othername": "Tổng tài bá đạo xin được ôm",
-      "tags": ["Drama", "Manhua", "Ngôn Tình", "Romance", "Truyện Màu"],
+      "tags": [
+        "Drama",
+        "Manhua",
+        "Ngôn Tình",
+        "Romance",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "Chưởng Duyệt",
       "description": "Một đêm triền miên, quăng 200 đồng tự nhận xui xẻo! Cô cho rằng chỉ là người qua đường, nhưng lại bị bắt trở lại giường nhiều lần... Sau này cô nổi giận, đổi lấy chính là câu nói chịu trách nhiệm của anh. Cô rất muốn biết \" Chịu trách nhiệm ra sao? \" Anh tựa sói tựa hổ nhào đến \" Tiếp tục đi ngủ \".",
@@ -2556,7 +2869,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tinh-mong-than-tuong"
+          "comic": "tinh-mong-than-tuong-121820"
         }
       },
       "name": "Tinh Mộng Thần Tượng",
@@ -2627,12 +2940,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dragon-quest-dau-an-rong-thieng"
+          "comic": "dragon-quest-dau-an-rong-thieng-77900"
         }
       },
       "name": "Dragon Quest - Dấu ấn rồng thiêng",
       "othername": "Dragon Quest: Dai no Daiboken",
-      "tags": ["Action", "Adventure", "Fantasy", "Shounen"],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Shounen"
+      ],
       "status": "Hoàn thành",
       "author": "Sanjo Riku",
       "description": "Câu chuyện là hành trình của Dai và những đồng đội, những học trò của người anh hùng Avan đi tiêu diệt\nác ma vì chính nghĩa. Là một manga dựa trên game, lại là shounen của thời kì những năm 80s, nên cốt truyện của Dấu ấn rồng thiêng có một mạch chung là tiêu diệt cái ác để bảo vệ thế giới. Nhàm chán? Sáo mòn? Không! Dựa trên cái mạch khá dễ theo dõi ấy là một cốt truyện li kì và phức tạp, đầy những bất ngờ. Câu chuyện như đã nói, có sự chuyển mạch từ sự hài hước ban đầu đến một thế giới căng thẳng và có phần u tối. Sự bất ngờ và hấp dẫn ấy theo tôi nghĩ đến từ sự phong phú của thế giới trong Dragon Quest và từ bí mật riêng của từng nhân vật. Theo bước chân của nhóm dũng sĩ, người xem chứng kiến sự trưởng thành và lột xác của nhiều người, và nhiều điều cứ dần dần được hé mở, đưa người xem từ bất ngờ này đến bất ngờ khác. Tác giả kịch bản của Dấu ấn rồng thiêng tỏ ra rất… già tay khi luôn đưa độc giả vào tình trạng “đói thông tin”. Bí ẩn này chưa qua thì bí ẩn khác đã đến. Kịch bản nhìn chung vì vậy mà gợi trí tò mò rất lớn khi những bí ẩn đan cài chồng chất nhau, và bạn sẽ khó lòng chán được.",
@@ -2689,7 +3007,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/64/mahou-sensei-negima.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "bac-thay-ma-phap" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "bac-thay-ma-phap-31360"
+        }
       },
       "name": "Bậc Thầy Ma Pháp",
       "othername": "",
@@ -2761,12 +3082,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "co-vo-am-ap-cua-ha-thieu"
+          "comic": "co-vo-am-ap-cua-ha-thieu-187920"
         }
       },
       "name": "Cô vợ ấm áp của hạ thiếu",
       "othername": "CEO's Sudden Proposal; Marrying a CEO; Hè Shǎo De Shǎn Hūn Nuǎn Qī",
-      "tags": ["Comedy", "Manhua", "Romance", "Shoujo", "Truyện Màu"],
+      "tags": [
+        "Comedy",
+        "Manhua",
+        "Romance",
+        "Shoujo",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "A Kha Vấn Hoa",
       "description": "Muốn làm người phụ nữ của tôi thì phải đáp ứng 3 điều kiện: Thích được cưng chiều, thích được yêu thương, thích được chăm sóc. Người phụ nữ của tôi phải đáp ứng đủ 3 điều kiện trên và phải biết suy nghĩ, ý thức! Truyện được chuyển thể từ tiểu thuyết. Hy vọng mọi người sẽ ủng hộ",
@@ -2825,12 +3152,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "de-thieu-dung-manh-qua"
+          "comic": "de-thieu-dung-manh-qua-152090"
         }
       },
       "name": "Đế Thiếu Đừng Mạnh Quá",
       "othername": "",
-      "tags": ["Manhua", "Ngôn Tình", "Romance", "Shoujo", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Romance",
+        "Shoujo",
+        "Truyện Màu"
+      ],
       "status": "Hoàn thành",
       "author": "",
       "description": "Hay nè ^^",

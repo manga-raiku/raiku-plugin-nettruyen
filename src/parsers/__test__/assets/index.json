@@ -6,7 +6,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "vo-luyen-dinh-phong"
+          "comic": "vo-luyen-dinh-phong-176960"
         }
       },
       "name": "Võ Luyện Đỉnh Phong",
@@ -39,7 +39,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "cuc-pham-bai-gia-tu"
+          "comic": "cuc-pham-bai-gia-tu-419910"
         }
       },
       "name": "Cực Phẩm Bại Gia Tử",
@@ -72,7 +72,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-co-mot-son-trai"
+          "comic": "ta-co-mot-son-trai-370810"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -105,7 +105,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-tuong-vo-hinh"
+          "comic": "dai-tuong-vo-hinh-258340"
         }
       },
       "name": "Đại Tượng Vô Hình",
@@ -138,7 +138,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "mat-the-pham-nhan"
+          "comic": "mat-the-pham-nhan-211271"
         }
       },
       "name": "Mạt Thế Phàm Nhân",
@@ -171,7 +171,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-quan-gia-la-ma-hoang"
+          "comic": "dai-quan-gia-la-ma-hoang-219482"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -204,7 +204,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-thuat-hoi-chien"
+          "comic": "chu-thuat-hoi-chien-189860"
         }
       },
       "name": "Chú Thuật Hồi Chiến",
@@ -237,7 +237,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
+          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich-72436"
         }
       },
       "name": "Ta ở nhà 100 năm khi ra ngoài đã vô địch",
@@ -270,7 +270,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nhan-vat-chinh-manh-nhat-lich-su"
+          "comic": "nhan-vat-chinh-manh-nhat-lich-su-420020"
         }
       },
       "name": "Nhân Vật Chính Mạnh Nhất Lịch Sử",
@@ -303,7 +303,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tro-thanh-than-chu-cthulhu"
+          "comic": "tro-thanh-than-chu-cthulhu-62252"
         }
       },
       "name": "Trở Thành Thần Chủ Cthulhu",
@@ -336,7 +336,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-ra-doi-cua-mot-anh-hung"
+          "comic": "su-ra-doi-cua-mot-anh-hung-335212"
         }
       },
       "name": "Sự ra đời của một anh hùng",
@@ -369,7 +369,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-tro-lai-cua-huyen-thoai"
+          "comic": "su-tro-lai-cua-huyen-thoai-518062"
         }
       },
       "name": "Sự Trở Lại Của Huyền Thoại",
@@ -404,12 +404,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "kiep-nay-toi-se-la-phan-dien"
+          "comic": "kiep-nay-toi-se-la-phan-dien-91865"
         }
       },
       "name": "Kiếp Này Tôi Sẽ Là Phản Diện",
       "othername": "",
-      "tags": ["Action", "Manhwa", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Manhwa",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "",
@@ -468,12 +472,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hac-ki-si-thien-tai-gioi-han-thoi-gian"
+          "comic": "hac-ki-si-thien-tai-gioi-han-thoi-gian-85270"
         }
       },
       "name": "Hắc Kị Sĩ Thiên Tài Giới Hạn Thời Gian",
       "othername": "Hắc Kị Sĩ Thiên Tài Đoản Mệnh; Hiệp Sĩ Thiên Tài Bóng Đêm",
-      "tags": ["Action", "Chuyển Sinh", "Manhwa", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Chuyển Sinh",
+        "Manhwa",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "[Từ tác giả đã mang đến cho bạn Tôi Nhặt Được Một Vật Phẩm Cấp Huyền Thoại]\nInner Lunatic là tựa game nhập vai giả tưởng nổi tiếng vì độ thách thức giới hạn người chơi của nó. Nhưng với Yoo Chan, cậu thanh niên vừa được chẩn đoán mắc bệnh nan y, thì trò chơi này là cả thế giới cua cậu. Giờ đây đã đúng nghĩa thành hiện thực của cậu. Yoo Chan phải sống sót dưới thân phận của phản diện ngớ ngẩn nhất xuất hiện ở ải đầu của trò chơi. Cậu ta liệu có thể đi đến hồi kết của câu chuyện bình an vô sự không?",
@@ -530,11 +539,18 @@
       "image": "https://st.nettruyenmax.com/data/comics/188/cuong-tham.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "cuong-tham" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "cuong-tham-72892"
+        }
       },
       "name": "Cuồng Thám",
       "othername": "",
-      "tags": ["Manhua", "Trinh Thám", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Trinh Thám",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Triệu Ngọc cứ tưởng rằng mũi thuốc độc trên chiếc ghế tử hình kia đã chấm dứt sinh mạng của hắn, nào ngờ, mở mắt ra đã thấy mình sống lại trong một hình hài khác ở một thế giới khác.\nHắn vẫn là Triệu Ngọc, nhưng Triệu Ngọc ở thế giới này không còn là một gã côn đồ sống trên lưỡi đao mũi kiếm nữa mà là một cảnh sát điều tra chính hiệu ba không: không gái gú, không cờ bạc, không rượu chè.\nĐể cảm ơn chủ nhân cơ thể mới, việc đầu tiên hắn làm chính là tạt cà phê vào mặt tên đội phó luôn ức hiếp nguyên chủ, việc thứ hai là đi ăn chơi sung sướng một phen. Nào ngờ chỉ một chuyến đi đến khu đèn đỏ lại giúp hắn khởi động được hệ thống Kỳ Ngộ, còn đụng độ cả tên nghi phạm mà cả đội Trọng án đang truy bắt.\nHệ thống Kỳ Ngộ đó là gì? Vì sao nó vừa xuất hiện, Triệu Ngọc đã gặp được tên nghi phạm của vụ án? Điều gì sẽ xảy ra khi một gã côn đồ lại sống lại trong hình hài của một cảnh sát điều tra chân chính?",
@@ -593,12 +609,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "duoc-su-ki-la-benh-nhan-cua-toi-deu-rat-khung-bo"
+          "comic": "duoc-su-ki-la-benh-nhan-cua-toi-deu-rat-khung-bo-87036"
         }
       },
       "name": "Dược sư kì lạ: bệnh nhân của tôi đều rất khủng bố",
       "othername": "",
-      "tags": ["Magical", "Manhua", "Mystery", "Truyện Màu"],
+      "tags": [
+        "Magical",
+        "Manhua",
+        "Mystery",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Bị bóng tối quỷ quái nuốt chửng, hay là trở thành sự tồn tại đặc biệt để sống sót? Lâm Ân là bác sĩ con người hiếm có ngoài ý muốn xuyên không đến thế giới quái vật này, dựa vào phương pháp điều trị \"dịu dàng\" và sự phục vụ \"chân thành\", cảm động mọi bệnh nhân! \"Thuốc tê? Lần sau nhất định sẽ dùng.\" \"Dao của tôi rất nhanh, cậu nhịn chút nhé~\" Chào mừng đến với tiệm thuốc Huyết Cứ, chúng tôi sẽ phục vụ bạn tận tình.",
@@ -657,12 +678,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-mau-xuyen-khong-toi-lam-phu-nhan-hao-mon"
+          "comic": "chu-mau-xuyen-khong-toi-lam-phu-nhan-hao-mon-85329"
         }
       },
       "name": "Chủ Mẫu Xuyên Không Tới Làm Phu Nhân Hào Môn",
       "othername": "Chủ Mẫu Cổ Đại Xuyên Thành Nữ Phụ Hào Môn, Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực",
-      "tags": ["Manhua", "Ngôn Tình", "Truyện Màu", "Xuyên Không"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu",
+        "Xuyên Không"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Cố Tuyết Nghi xuất thân tướng môn, khi còn sống là chủ mẫu nhà họ Thịnh, một người chưởng quản đại gia tộc hơn bốn trăm người, phong quang vô hạn, vừa tỉnh lại, lại được thông báo mặc vào một quyển sách, trở thành vợ cũ của đại lão nam chủ sắp ly hôn và nhất định phải chết sớm. Nhìn trượng phu yến triều nghiêng ngả đệ muội, Cố Tuyết Nghi nắm cổ tay, trượng phu có muốn ly hôn hay không liên quan đến chuyện rắm nàng, trước tiên đem đám đồ chơi vô dụng này dạy chính đạo mới là chuyện quan trọng nhất!",
@@ -721,12 +747,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nu-tuong-xuyen-den-hien-dai-tro-thanh-chi-dau-quyen-luc"
+          "comic": "nu-tuong-xuyen-den-hien-dai-tro-thanh-chi-dau-quyen-luc-86406"
         }
       },
       "name": "Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực",
       "othername": "",
-      "tags": ["Cổ Đại", "Manhua", "Ngôn Tình", "Truyện Màu", "Xuyên Không"],
+      "tags": [
+        "Cổ Đại",
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu",
+        "Xuyên Không"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Cố Tuyết Nghi xuất thân tướng môn, khi còn sống là chủ mẫu nhà họ Thịnh, một người chưởng quản đại gia tộc hơn bốn trăm người, phong quang vô hạn, vừa tỉnh lại, lại được thông báo đã xuyên vào một quyển sách, trở thành vợ cũ của đại lão nam chủ sắp ly hôn và nhất định phải chết sớm. Nhìn đám em trai em gái của chồng, Cố Tuyết Nghi nắm cổ tay, chồng có muốn ly hôn hay chả liên quan quái gì đến cô ấy. Trước tiên phải dạy dỗ lại cái đám này mới là chuyện quan trọng nhất!",
@@ -785,12 +817,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-quan-gia-la-ma-hoang"
+          "comic": "dai-quan-gia-la-ma-hoang-219482"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
       "othername": "",
-      "tags": ["Adventure", "Manhua", "Truyện Màu"],
+      "tags": [
+        "Adventure",
+        "Manhua",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "Mộng Tiên Giới",
       "description": "",
@@ -849,12 +885,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "sau-khi-trong-sinh-toi-ga-cho-dai-lao-tan-tat"
+          "comic": "sau-khi-trong-sinh-toi-ga-cho-dai-lao-tan-tat-83156"
         }
       },
       "name": "Sau Khi Trọng Sinh, Tôi Gả Cho Đại Lão Tàn Tật",
       "othername": "Cùng Đại Lão Vả Mặt Cặn Bả Sau Trọng Sinh",
-      "tags": ["Manhua", "Ngôn Tình", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Nguyễn hàn tinh sau khi chết moi biết được, nàng chỗ thế giới, chỉ là một bản lấy nàng cùng cha khác mẹ muội muội làm nhân vật chính ngọt sủng văn. Mà nàng, chẳng qua là lấy sắc rải rác vài câu phổ thông pháo hôi, chết đến vô thanh vô tức. Sống lại về 19 tuổi, đối tình thương của cha khao khát tất cả đều tán đi, đã từng tranh cường háo thắng nàng triệt để Phật hệ. Thay gả? Đưa tiền liền không có vấn đề. Trượng phu là tàn tật có tâm lý vấn đề? Làm cái hào môn cá ướp muối rộng quá nó không thơm sao? Cả đời này, nàng không nghĩ lại đi mưu đoạt thứ không thuộc về mình, chỉ muốn an an ổn ổn. . .",
@@ -913,12 +953,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "toi-mong-giua-ban-ngay"
+          "comic": "toi-mong-giua-ban-ngay-83850"
         }
       },
       "name": "Tôi Mộng Giữa Ban Ngày",
       "othername": "Ban Ngày Mơ Thấy Em",
-      "tags": ["Manhua", "Ngôn Tình", "School Life", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "School Life",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Cuộc chiến tranh đoạt học bổng diễn ra hừng hực khí thế, ở trước cửa phòng làm việc của thầy chủ nhiệm, Lâm Ngữ Kinh cùng Thẩm Quyện oan gia ngõ hp.\nLâm Ngữ Kinh vẻ mặt đau thương, mắt rưng rưng: “Bạn học Thẩm, nói thật với cậu nhé, tôi là từ nông thôn đến đấy, trong nhà rất nghèo, lúc đầu tên là Lâm Thúy Hoa, thôn Hoa sen chúng tôi chỉ có mỗi mình tôi có thể đến thành phố lớn học tập thôi, lần này nếu như tôi không lấy được học bổng sẽ không có tiền nộp học phí, không có tiền nộp học phí cũng chỉ có thể quay về thôn cho heo ăn…”\nThẩm Quyện dáng vẻ lười nhát, không đếm xỉa tới: “Thật là trùng hợp, tôi ở thôn Lá sen sát vách đấy, vốn tên là Thẩm Thiết Trụ, tôi không chỉ phải cho heo ăn, mà còn phải làm ruộng.”\nLâm Ngữ Kinh: “…”\nHai người mặt không biểu cảm nhìn nhau ba giây, sau đó động tác đều nhịp, mỗi người xoay mình rời đi.\nThẩm Quyện chui vào máy bay trực thăng riêng, Lâm Ngữ Kinh lên Rolls-Royce Phantom phiên bản dài.\n— Hai kẻ có tiền mỗi ngày ở tr mặt đối phương, chính xác là đối với nhau, nỗ lực mà giả dạng nghèo, câu chuyện cũ.\n“Ngữ là ngữ không kinh chết người không ngừng ngữ, kinh là kinh động trời đất quỷ thần khóc than sự kinh đó.”",
@@ -977,12 +1022,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "truong-cong-chua-ac-doc-bat-dau-chim-dam-trong-yeu-duong"
+          "comic": "truong-cong-chua-ac-doc-bat-dau-chim-dam-trong-yeu-duong-79482"
         }
       },
       "name": "Trưởng Công Chúa Ác Độc Bắt Đầu Chìm Đắm Trong Yêu Đương",
       "othername": "Nguy Hiểm! Trưởng Công Chúa Độc Ác Bắt Đầu Học Yêu",
-      "tags": ["Cổ Đại", "Manhua", "Ngôn Tình", "Truyện Màu", "Xuyên Không"],
+      "tags": [
+        "Cổ Đại",
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu",
+        "Xuyên Không"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Đừng bỏ rơi những kẻ phản diện, một cái ôm, một cái hôn, trong tương lai có thể trở thành liều thuốc tốt nhất. Nữ vương mạt thế đem theo năng lực xuyên sách, xuyên vào trên người trưởng công chúa kiêu căng, ngạo mạn, có vô số nam sủng, còn đánh gãy chân của đại phản phái? Nghĩ tới việc sau này đại phản phái quật khởi, diệt nước vân, đem trưởng công chúa lăng trì, cắt da rọc xương, ném thi thể vào rừng sâu,... Chỉ cần cho ta một cơ hội, Ta muốn làm một người tốt! Ta có thể nghịch chuyển càn khôn!!!",
@@ -1041,12 +1092,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "vo-chong-dinh-luu-co-chut-ngot-ngao"
+          "comic": "vo-chong-dinh-luu-co-chut-ngot-ngao-79143"
         }
       },
       "name": "Vợ Chồng Đỉnh Lưu Có Chút Ngọt Ngào",
       "othername": "Vợ Chồng Siêu Sao Có Chút Ngọt",
-      "tags": ["Manhua", "Ngôn Tình", "Romance", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Romance",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Một chủ đề nóng sốt hỏi thế này: “Vì sao Ôn Lệ và Tống Nghiên có nhiều fan couple thế?”\nChủ thớt bổ sung: Rõ ràng bọn họ đã kết hôn hai năm nhưng không hề cùng nhau tham gia bất cứ bộ phim hay gameshow nào, cũng không tương tác trên mạng xã hội mấy, toàn showbiz đều công nhận bọn họ là đôi vợ chồng hợp đồng, ngay cả ân ái cũng chả buồn diễn. Thế mà sao lại có nhiều fan couple như vậy, tui xin thề tui không phải antifan nha.\nCâu trả lời đứng đầu: “Fan couple không mời mà tới đó. Xin nói rõ với chủ thớt rằng đúng là tương tác giữa hai người họ không nhiều, đường đều phải soi kính hiển vi mới thấy. Nhưng mà…\n1. Xét về nhan sắc thì hai người họ đều đỉnh của chóp. Hồi Tam Lực nhà mị còn là người mới thì đã có người ảo tưởng xem hai người họ mà đứng chung ống kính sẽ như thế nào. Sau đó bức ảnh chụp chung thế kỷ được tung ra, thiên nga đen và ánh trăng sáng khiến rất nhiều fanfic thay thế nhanh chóng bùng nổ trong showbiz.\n2. Xét về địa vị trong showbiz, họ đều là sao hạng A. Thế chả phải hai bên đều xịn sò à?\n3. Lực lượng fan sản xuất tác phẩm cho con dân đu thuyền cực kỳ hùng hậu, fanfic fanart fanmade-video cứ gọi là ăn đến kềnh bụng, muốn bò khỏi hố cũng không nỡ.\nTóm lại, mặc xác người qua đường bảo bọn họ vờ vịt ra sao, hễ ngày nào bọn họ chưa tuyên bố ly hôn thì tụi mị vẫn vùi đầu dưới hố!”",
@@ -1105,7 +1161,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "song-tinh-am-duong-su"
+          "comic": "song-tinh-am-duong-su-39900"
         }
       },
       "name": "Song Tinh Âm Dương Sư",
@@ -1179,12 +1235,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "hoac-thieu-lai-phai-theo-duoi-vo-yeu-roi"
+          "comic": "hoac-thieu-lai-phai-theo-duoi-vo-yeu-roi-79879"
         }
       },
       "name": "Hoắc Thiếu Lại Phải Theo Đuổi Vợ Yêu Rồi",
       "othername": "",
-      "tags": ["Manhua", "Ngôn Tình", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Một ngày tỉnh mộng, tỉnh lại đúng là bốn năm sau, chẳng những trở thành vợ người hiệp nghị của Lãnh Diện Bá Tổng Hoắc Nhất Thành, còn trở thành máy rút tiền thịt người của mẹ kế, em gái kế, thuần khiết đại oan chủng thực chùy! Ngay khi Thẩm Vân Hi tay xé trà xanh, hoa lệ nghịch tập, lại phát hiện lừa gạt nàng nhiều nhất cũng là hắn..",
@@ -1243,12 +1303,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tong-tai-huyet-toc-cuc-sung-co-vo-my-nhan-ngu"
+          "comic": "tong-tai-huyet-toc-cuc-sung-co-vo-my-nhan-ngu-65986"
         }
       },
       "name": "Tổng Tài Huyết Tộc Cực Sủng Cô Vợ Mỹ Nhân Ngư",
       "othername": "Trúng Số Vào Hào Môn: Lão Công Tỷ Phú Của Tôi; Cuộc Hôn Nhân Với Boss Nhà Giàu Khét Tiếng; Tôi Trở Thành Phu Nhân Giàu Có Của Tổng Tài Siêu Ngầu",
-      "tags": ["Manhua", "Ngôn Tình", "Romance", "Shoujo", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Romance",
+        "Shoujo",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Cô là Mỹ Nhân Ngư từ nhỏ bị gia đình bo roi, ngày cô sắp tốt nghiệp cũng là ngày cô bị bạn trai đá, chính thức trở thành cẩu độc thân trong làng FA. Nhưng sinh ra ở một đất nước già hóa dân số, phải có giấy chứng nhận kết hôn mới có thể tiếp tục cuộc sống, cô quyết liều mình đến Dịch Vụ Phân Phối đối tượng của quốc gia để bốc thăm đối tượng kết hôn~\nMột cú twist bất ngờ đảo lộn tình hình, người may mắn đó là Ông Trùm kim cương trong danh sách những người giàu có nhất thế giới được Forbes bình chọn!!! Anh ta còn nằm ở Top đầu người đàn ông Độc Thân Hoàng Kim nói không với Chủ Nghĩa Kết Hôn – Dạ Quân Kình!!\nNhững tưởng người như thế này sẽ cực kỳ khó ăn khó ở, nhưng nào ngờ rằng anh ta cưng chiều cô như bảo bối, sủng đến tận trời mây, nâng như trứng hứng hoa là có thật!\nAnh ta không chỉ dạy cô chơi piano, khiêu vũ, mà còn dạy cô kỹ năng sinh tồn. Không chỉ dạy cô cách cư xử và phép xã giao, mà còn dạy cô phải biết dũng cảm và cách giết người.\nLuôn cho cô cảm giác bình yên và nơi trú ẩn an toàn nhất như một người cha, đồng thời còn như một người anh trai mặc cô ấy nũng nịu và chơi xấu.\nCô cho rằng may mắn lớn nhất trong cuộc đời mình có lẽ đã sử dụng hết, nhưng không ngờ sau này còn có những bất ngờ to lớn hơn đang chờ cô, đây… chắc không phải là đang mơ chứ???",
@@ -1307,12 +1373,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-co-mot-son-trai"
+          "comic": "ta-co-mot-son-trai-370810"
         }
       },
       "name": "Ta Có Một Sơn Trại",
       "othername": "Ta Xuyên Không Qua Mở 1 Sơn Trại",
-      "tags": ["Action", "Chuyển Sinh", "Fantasy", "Manhua", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Chuyển Sinh",
+        "Fantasy",
+        "Manhua",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "Hoaroimuaha",
       "description": "",
@@ -1369,7 +1441,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/178/oshi-no-ko.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "oshi-no-ko" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "oshi-no-ko-291060"
+        }
       },
       "name": "Oshi no Ko",
       "othername": "Đứa Con Của Thần Tượng",
@@ -1439,12 +1514,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "xuyen-nhanh-nhan-vat-phan-dien-qua-nuong-chieu-ta"
+          "comic": "xuyen-nhanh-nhan-vat-phan-dien-qua-nuong-chieu-ta-89024"
         }
       },
       "name": "Xuyên Nhanh : Nhân Vật Phản Diện Quá Nuông Chiều Ta",
       "othername": "",
-      "tags": ["Cổ Đại", "Manhua", "Ngôn Tình", "School Life", "Truyện Màu"],
+      "tags": [
+        "Cổ Đại",
+        "Manhua",
+        "Ngôn Tình",
+        "School Life",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Vì sống lại, Thịnh Noãn cần xuyên qua thành nữ phụ pháo hôi của các thế giới khác nhau, hoàn thành nhiệm vụ ngăn cản nhân vật phản diện hắc hóa, nhưng... Rõ ràng đều là nhân vật phản diện cố chấp lãnh huyết, thế nào cũng bắt đầu \"Noãn Noãn, ngoại trừ bên cạnh ta, ngươi đi đâu cũng không được đi. ...\" \"Noãn Noãn, vì em, tiêu diệt giang sơn thì như thế nào! \"Noãn Noãn, em chính là tâm ma của tôi. \"Thịnh Noãn:??",
@@ -1503,7 +1584,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "tro-thanh-than-chu-cthulhu"
+          "comic": "tro-thanh-than-chu-cthulhu-62252"
         }
       },
       "name": "Trở Thành Thần Chủ Cthulhu",
@@ -1575,12 +1656,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "xin-hay-nhan-con-lam-con-di-ma-papa"
+          "comic": "xin-hay-nhan-con-lam-con-di-ma-papa-88192"
         }
       },
       "name": "Xin hãy nhận con làm con đi mà, Papa",
       "othername": "",
-      "tags": ["Chuyển Sinh", "Fantasy", "Manhwa", "Ngôn Tình", "Webtoon"],
+      "tags": [
+        "Chuyển Sinh",
+        "Fantasy",
+        "Manhwa",
+        "Ngôn Tình",
+        "Webtoon"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "",
@@ -1639,12 +1726,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "manh-the-that-that"
+          "comic": "manh-the-that-that-91928"
         }
       },
       "name": "Manh Thê Thất Thất",
       "othername": "",
-      "tags": ["Manhua", "Ngôn Tình", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Hắn sát phạt quyết đoán, lãnh khốc vô tình, được xưng là Mặc quốc đệ nhất công tử Tĩnh An Vương, thế nhân đều nói, hắn vô cùng chán ghét nữ nhân, nhưng lại không biết, trong mắt và trong lòng của hắn đều chỉ có một người. Cô gái khiến sắc mặt hắn xanh mét, nghiến răng nghiến lợi, ngay cả đường phản kháng cũng không có.....",
@@ -1703,7 +1794,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "toi-thuan-hoa-cho-dien-cua-chong-cu"
+          "comic": "toi-thuan-hoa-cho-dien-cua-chong-cu-77186"
         }
       },
       "name": "Tôi Thuần Hóa Chó Điên Của Chồng Cũ",
@@ -1776,7 +1867,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "nhan-vat-chinh-manh-nhat-lich-su"
+          "comic": "nhan-vat-chinh-manh-nhat-lich-su-420020"
         }
       },
       "name": "Nhân Vật Chính Mạnh Nhất Lịch Sử",
@@ -1845,7 +1936,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/192/aekanaru.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "aekanaru" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "aekanaru-69312"
+        }
       },
       "name": "Aekanaru",
       "othername": "",
@@ -1915,12 +2009,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "chu-thuat-hoi-chien"
+          "comic": "chu-thuat-hoi-chien-189860"
         }
       },
       "name": "Chú Thuật Hồi Chiến",
       "othername": "Vật Thể Bị Nguyền Rủa",
-      "tags": ["Action", "Fantasy", "Manga", "Shounen", "Supernatural"],
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Manga",
+        "Shounen",
+        "Supernatural"
+      ],
       "status": "Đang tiến hành",
       "author": "Akutami Gege",
       "description": "Yuuji Itadori là một thiên tài có tốc độ và sức mạnh, nhưng cậu ấy muốn dành thời gian của mình trong Câu lạc bộ Tâm Linh. Một ngày sau cái chết của ông mình, anh gặp Megumi Fushiguro, người đang tìm kiếm vật thể bị nguyền rủa mà các thành viên CLB đã tìm thấy.\nĐối mặt với những con quái vật khủng khiếp bị \"Ám\", Yuuji nuốt vật thể bị phong ấn để có được sức mạnh của nó và cứu bạn bè của mình! Nhưng giờ Yuuji là người bị \"Ám\", và cậu ấy sẽ bị kéo vào thế giới ma quỷ ly kỳ của Megumi và những con quái vật độc ác ...",
@@ -1979,12 +2079,19 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "lang-khach-kenshin-phan-2"
+          "comic": "lang-khach-kenshin-phan-2-172140"
         }
       },
       "name": "Lãng khách Kenshin phần 2",
       "othername": "Rurouni Kenshin Hokkai Arc",
-      "tags": ["Action", "Adult", "Adventure", "Manga", "Mature", "Romance"],
+      "tags": [
+        "Action",
+        "Adult",
+        "Adventure",
+        "Manga",
+        "Mature",
+        "Romance"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Rurouni Kenshin: Hokkaido Arc phần tiếp theo của Rurouni Kenshin sẽ gồm 5 Arc. Câu chuyện sẽ bắt đầu khi tình cờ Kaoru phát hiện ra người cha tưởng chừng đã chết, hóa ra vẫn còn sống khỏe mạnh ở Hokkaido!",
@@ -2041,11 +2148,18 @@
       "image": "https://st.nettruyenmax.com/data/comics/176/vu-xuyen-vat-ngu.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "vu-xuyen-vat-ngu" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "vu-xuyen-vat-ngu-89520"
+        }
       },
       "name": "Vũ Xuyên Vật Ngữ",
       "othername": "",
-      "tags": ["Manhua", "Ngôn Tình", "Truyện Màu"],
+      "tags": [
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Vưu Thu Tử, hay trang điểm đậm, khí chất đáng sợ, nhưng bên trong lại ẩn chứa một trái tim đầy tổn thương, và những hành động đó chỉ là để thoát ra khỏi cuộc sống xã hội. Cuộc sống được cho là nhàm chán đó thay đổi khi Thác Nhất, người đã rời đi 5 năm quay lại. Người trước mắt vừa lạ vừa quen, để được lần nữa nhìn thấy nụ cười của cậu ấy, cô, người vốn không hòa đồng, đã hành động.",
@@ -2104,7 +2218,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "su-ra-doi-cua-mot-anh-hung"
+          "comic": "su-ra-doi-cua-mot-anh-hung-335212"
         }
       },
       "name": "Sự ra đời của một anh hùng",
@@ -2175,12 +2289,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "kieu-quy-phi-thu-doan-ac-doc-va-hoang-thuong-khong-de-choc"
+          "comic": "kieu-quy-phi-thu-doan-ac-doc-va-hoang-thuong-khong-de-choc-86206"
         }
       },
       "name": "Kiều Quý Phi Thủ Đoạn Ác Độc Và Hoàng Thượng Không Dễ Chọc",
       "othername": "",
-      "tags": ["Cổ Đại", "Manhua", "Ngôn Tình", "Truyện Màu", "Xuyên Không"],
+      "tags": [
+        "Cổ Đại",
+        "Manhua",
+        "Ngôn Tình",
+        "Truyện Màu",
+        "Xuyên Không"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Đại tiểu thư tập đoàn nghìn tỷ mặc thành bia đỡ đạn nhỏ trong sách, vốn định sống sót, không ngờ lại rơi vào sự sủng ái cực hạn của lãnh diện đế vương, từng bước trầm luân, sủng quan lục cung. Lại xem Kiều Kiều quý phi nằm thắng cung đấu như thế nào, chọc động tâm huyền đế vương.",
@@ -2239,12 +2359,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "long-lay-phut-lia-doi"
+          "comic": "long-lay-phut-lia-doi-88035"
         }
       },
       "name": "Lộng Lẫy Phút Lìa Đời",
       "othername": "Shinu toki wa mabayuku",
-      "tags": ["Manga", "Romance", "Slice of Life"],
+      "tags": [
+        "Manga",
+        "Romance",
+        "Slice of Life"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "\"Từ trước tới nay, mình đã hé môi cười trên gương mặt xấu xí này thật sao? Suốt bấy lâu nay, mình ra ngoài dạo bước với cơ thể cục mịch này mà chẳng mảy may hổ thẹn ư?\"\nHouryuuji Mirei (học sinh lớp 12) là một nàng \"lợn con xấu xí\" luôn cảm thấy tự ti về ngoại hình của mình. Cô chơi thân với Miyama Kousei, một cậu con trai tốt tính, ân cần, chưa từng đánh giá ngoại hình của cô lấy chỉ một chốc. Song, vì một biến cố đau lòng mà cô quyết định đắp lên mình một gương mặt khác xinh đẹp hơn, đồng thời bỏ Kousei lại quê nhà để bắt đầu một cuộc sống mới ở Fukuoka.\nĐây là chuyện tình buồn của cô gái cố gắng rũ bỏ quá khứ đau khổ lại phía sau để kiếm tìm hạnh phúc nơi xứ người.",
@@ -2301,7 +2425,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/121/lili-men.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "lili-men" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "lili-men-81529"
+        }
       },
       "name": "Lili-men",
       "othername": "Lilimen",
@@ -2369,11 +2496,19 @@
       "image": "https://st.nettruyenmax.com/data/comics/118/couple-breaker.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "couple-breaker" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "couple-breaker-79734"
+        }
       },
       "name": "Couple Breaker",
       "othername": "",
-      "tags": ["Manhwa", "Ngôn Tình", "Romance", "Truyện Màu"],
+      "tags": [
+        "Manhwa",
+        "Ngôn Tình",
+        "Romance",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "",
@@ -2432,12 +2567,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "quy-hoan-luc-ma-dao"
+          "comic": "quy-hoan-luc-ma-dao-91919"
         }
       },
       "name": "Quy Hoàn Lục Ma Đạo",
       "othername": "",
-      "tags": ["Action", "Manhwa", "Truyện Màu"],
+      "tags": [
+        "Action",
+        "Manhwa",
+        "Truyện Màu"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "",
@@ -2496,12 +2635,16 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "high-card-9-no-mercy"
+          "comic": "high-card-9-no-mercy-90609"
         }
       },
       "name": "High Card - ♦9 No Mercy",
       "othername": "",
-      "tags": ["Action", "Manga", "Supernatural"],
+      "tags": [
+        "Action",
+        "Manga",
+        "Supernatural"
+      ],
       "status": "Đang tiến hành",
       "author": "Kawamoto Homura",
       "description": "Đây là phần ngoại truyện của anime High Card, các sự kiện trong truyện diễn ra trong khoảng giữa tập 4 và 5 (chắc thế)\nVương quốc Fourland là một quốc đảo ở Bắc Đại Tây Dương. Ở đất nước này có 52 X-Playing Cards, được coi là nguồn gốc của các đấu thủ bài. Một lá bài có khả năng siêu nhiên độc nhất có thể ban tặng khả năng của nó cho một người đủ điều kiện.\nTruyện kể về Percy Parker vô tình nhặt được lá 9 rô \"No Mercy\" và bị cuốn vào cuộc tranh giành những lá bài",
@@ -2560,12 +2703,18 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "amagi-brilliant-park"
+          "comic": "amagi-brilliant-park-136530"
         }
       },
       "name": "Amagi Brilliant Park",
       "othername": "Amagi - Công Viên Tươi Đẹp; Amagi - Công Viên Rực Rỡ; 甘城ブリリアントパーク ; 甘城光辉游乐园 ; 甘城輝煌樂園救世主 ; 甘城辉煌乐园救世主",
-      "tags": ["Comedy", "Manga", "Romance", "Shounen", "Supernatural"],
+      "tags": [
+        "Comedy",
+        "Manga",
+        "Romance",
+        "Shounen",
+        "Supernatural"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Một manga chuyển thể từ light novel cùng tên.Seiya bị một cô gái xinh đẹp \"bắt cóc\" và buộc anh làm quản lý cho Amagi Brilliant Park - một công viên giải trí đang trong tình trạng xuống cấp thê thảm đến mức có nguy cơ sắp đóng cửa. Sau khi tiếp xúc với quản lý công viên, Seiya phát hiện Amagi Brilliant Park thực chất là ngôi nhà của các giống loài thần tiên! Liệu các hành động của Seiya có cứu vãn được tình trạng ế ẩm đến sắp dẹp tiệm của cái công viên kỳ lạ này. Câu chuyện còn ẩn chứa nhiều điều bí ẩn.",
@@ -2624,12 +2773,17 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "the-little-girl-raised-by-death-hold-the-sword-of-death-tight"
+          "comic": "the-little-girl-raised-by-death-hold-the-sword-of-death-tight-251450"
         }
       },
       "name": "The Little Girl Raised By Death Hold The Sword Of Death Tight",
       "othername": "",
-      "tags": ["Action", "Drama", "Fantasy", "Manga"],
+      "tags": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Manga"
+      ],
       "status": "Đang tiến hành",
       "author": "",
       "description": "Sâu trong một ngôi đền lãng quên, một đứa trẻ được tìm thấy bởi sinh vật hắc ám (Thần chết Z), Z đã nuôi nấng và dạy cho con bé kiến thức và cách chiến đấu. bỗng ngày nọ, Z biến mất, để lại bức thư và thanh hắc kiếm. Cô gái trẻ, olivia, lên đường tìm kiếm Z và trong hành trình cô tình nguyện trở thành lính của vương quốc farnest đang thất thế với Ashbelt Empires tranh giành thắng thua.\nĐây là cậu chuyện về Olivia Valedstorm, cô gái được Thần chết nuôi dưỡng. Và trong hành trình, cô trở thành một nữ thần chiến tranh.",
@@ -2686,7 +2840,10 @@
       "image": "https://st.nettruyenmax.com/data/comics/149/tham-tu-fuuto.jpg",
       "route": {
         "name": "comic",
-        "params": { "sourceId": "nettruyen", "comic": "tham-tu-fuuto" }
+        "params": {
+          "sourceId": "nettruyen",
+          "comic": "tham-tu-fuuto-211410"
+        }
       },
       "name": "Thám Tử Fuuto",
       "othername": "Fuuto Tantei",
@@ -2761,7 +2918,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "vo-luyen-dinh-phong"
+          "comic": "vo-luyen-dinh-phong-176960"
         }
       },
       "name": "Võ Luyện Đỉnh Phong",
@@ -2784,7 +2941,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "mat-the-pham-nhan"
+          "comic": "mat-the-pham-nhan-211271"
         }
       },
       "name": "Mạt Thế Phàm Nhân",
@@ -2807,7 +2964,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam"
+          "comic": "ta-bi-nhot-tai-cung-mot-ngay-muoi-van-nam-375240"
         }
       },
       "name": "Ta Bị Nhốt Tại Cùng Một Ngày Mười Vạn Năm",
@@ -2830,7 +2987,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-co-mot-son-trai"
+          "comic": "ta-co-mot-son-trai-370810"
         }
       },
       "name": "Ta Có Một Sơn Trại",
@@ -2853,7 +3010,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "dai-quan-gia-la-ma-hoang"
+          "comic": "dai-quan-gia-la-ma-hoang-219482"
         }
       },
       "name": "Đại Quản Gia Là Ma Hoàng",
@@ -2876,7 +3033,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "cao-nang-lai-tap"
+          "comic": "cao-nang-lai-tap-323620"
         }
       },
       "name": "Cao Năng Lai Tập",
@@ -2899,7 +3056,7 @@
         "name": "comic",
         "params": {
           "sourceId": "nettruyen",
-          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich"
+          "comic": "ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich-72436"
         }
       },
       "name": "Ta ở nhà 100 năm khi ra ngoài đã vô địch",
