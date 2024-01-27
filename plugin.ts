@@ -143,7 +143,7 @@ class Nettruyen implements API<true> {
 
     return getComicChapter(
       mangaId.replace(/-\d+$/, "") +
-      "/chap-" +
+      "/chapter-" +
       epId.slice(0, lastI) +
       "/" +
       epId.slice(lastI + 2),
