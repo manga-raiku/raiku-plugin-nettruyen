@@ -124,7 +124,6 @@ class Nettruyen implements API<true> {
   }
 
   async getModeReader(_: string, __: string, comicData: Comic) {
-    debugger
     if (comicData.genres.some(item => TAGS_IS_MANGA.includes(item.name.toLowerCase()))) {
       return {
         scrollingMode: false,
