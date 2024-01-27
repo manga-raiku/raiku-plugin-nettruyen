@@ -19,7 +19,7 @@ export default function slug(html: string, now: number): Comic {
   const $detail = $("#item-detail")
 
   const name = $detail.find("h1").text().trim()
-  const uid = parseInt(html.match(/gOpts\.comicId=(\d+)/)?.[1] ?? "")
+  const uid = parseInt(html.match(/gOpts\.comicId=\s*'?(\d+)'?\s*/)?.[1] ?? "")
   // // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
   // const key = html.match(/gOpts\.key=('|")([^"']+)\1/)![2]!
   // eslint-disable-next-line camelcase

@@ -24,8 +24,8 @@ export default function epId(html: string, now: number): ComicChapter {
     }
   } as const
 
-  const manga_id = parseInt(html.match(/gOpts\.comicId=(\d+)/)?.[1] ?? "") + ""
-  const ep_id = parseInt(html.match(/gOpts\.chapterId=(\d+)/)?.[1] ?? "") + ""
+  const manga_id = parseInt(html.match(/gOpts\.comicId=\s+'?(\d+)'?\s*/)?.[1] ?? "") + ""
+  const ep_id = parseInt(html.match(/gOpts\.chapterId=\s*'?(\d+)'?\s*/)?.[1] ?? "") + ""
   const cdn = html.match(/gOpts\.cdn="([^"]+)"/)?.[1]
   const cdn2 = html.match(/gOpts\.cdn2="([^"]+)"/)?.[1]
   // // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
