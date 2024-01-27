@@ -83,12 +83,12 @@ export default function general(html: string, now: number) {
   const curPage = Number.isNaN($curPage) ? 1 : $curPage
   const maxPage = $curPage
     ? parseInt(
-      new URL(
+        new URL(
           // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
           $("#ctl00_mainContent_ctl01_divPager a").last().attr("href")!,
           "http://localhost"
-      ).searchParams.get("page") ?? "1"
-    )
+        ).searchParams.get("page") ?? "1"
+      )
     : 1
 
   return { name, description, filters, items, curPage, maxPage }

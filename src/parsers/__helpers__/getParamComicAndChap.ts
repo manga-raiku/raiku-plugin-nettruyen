@@ -10,7 +10,8 @@ export function getParamComicAndChap(url: string): {
   const chap = url
     .slice(
       tt + comic.length + 1,
-      url.indexOf("/", url.indexOf("/", tt + comic.length + 1) + 1) >>> 0
+      url.indexOf("/", (url.indexOf("/", tt + comic.length + 1) >>> 0) + 1) >>>
+        0
     )
     .replace(/^\w+-/i, "")
     .replace(/\//g, "-i")
